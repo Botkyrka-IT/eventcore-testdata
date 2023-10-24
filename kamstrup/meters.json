@@ -1,0 +1,138 @@
+[
+    {
+        "id": "13867",
+        "href": "/meters/13867",
+        "serialnumber": "23616230",
+        "manufacturer": "KAW",
+        "metertype": "flowIQ 2200",
+        "consumptiontype": "VolumeCold",
+        "currentinstallation": {
+            "id": 3108,
+            "href": "/installations/3108"
+        },
+        "confignumber": "8045200250014336050100314302",
+        "typenumber": "02B63DB3D8SE",
+        "meternumber": "23616230"
+    },
+{
+    "id": "2434",
+    "href": "/meters/2434",
+    "serialnumber": "68533732",
+    "manufacturer": "KAM",
+    "metertype": "flowIQ 31xx",
+    "consumptiontype": "VolumeCold",
+    "confignumber": "0100246123533",
+    "typenumber": "03146C0H879",
+    "meternumber": "68533732"
+},
+{
+    "id": "13335",
+    "href": "/meters/13335",
+    "serialnumber": "20821880",
+    "manufacturer": "KAM",
+    "metertype": "flowIQ 31xx",
+    "consumptiontype": "VolumeCold",
+    "currentinstallation": {
+        "id": 3110,
+        "href": "/installations/3110"
+    },
+    "confignumber": "0100246123333",
+    "typenumber": "03140C2U879",
+    "meternumber": "20821880"
+},
+{
+    "id": "2435",
+    "href": "/meters/2435",
+    "serialnumber": "68533733",
+    "manufacturer": "KAM",
+    "metertype": "flowIQ 31xx",
+    "consumptiontype": "VolumeCold",
+    "confignumber": "0100246123533",
+    "typenumber": "03146C0H879",
+    "meternumber": "68533733"
+},
+{
+    "id": "13344",
+    "href": "/meters/13344",
+    "serialnumber": "20821889",
+    "manufacturer": "KAM",
+    "metertype": "flowIQ 31xx",
+    "consumptiontype": "VolumeCold",
+    "currentinstallation": {
+        "id": 3111,
+        "href": "/installations/3111"
+    },
+    "confignumber": "0100246123333",
+    "typenumber": "03140C2U879",
+    "meternumber": "20821889"
+},
+{
+    "id": "2436",
+    "href": "/meters/2436",
+    "serialnumber": "68533734",
+    "manufacturer": "KAM",
+    "metertype": "flowIQ 31xx",
+    "consumptiontype": "VolumeCold",
+    "currentinstallation": {
+        "id": 13516,
+        "href": "/installations/13516"
+    },
+    "confignumber": "0100246123533",
+    "typenumber": "03146C0H879",
+    "meternumber": "68533734"
+},
+{
+    "id": "13279",
+    "href": "/meters/13279",
+    "serialnumber": "20821824",
+    "manufacturer": "KAM",
+    "metertype": "flowIQ 31xx",
+    "consumptiontype": "VolumeCold",
+    "currentinstallation": {
+        "id": 3112,
+        "href": "/installations/3112"
+    },
+    "confignumber": "0100246123333",
+    "typenumber": "03140C2U879",
+    "meternumber": "20821824"
+},
+{
+    "id": "2437",
+    "href": "/meters/2437",
+    "serialnumber": "68533735",
+    "manufacturer": "KAM",
+    "metertype": "flowIQ 31xx",
+    "consumptiontype": "VolumeCold",
+    "confignumber": "0100246123533",
+    "typenumber": "03146C0H879",
+    "meternumber": "68533735"
+},
+{
+    "id": "2438",
+    "href": "/meters/2438",
+    "serialnumber": "68533736",
+    "manufacturer": "KAM",
+    "metertype": "flowIQ 31xx",
+    "consumptiontype": "VolumeCold",
+    "confignumber": "0100246123533",
+    "typenumber": "03146C0H879",
+    "meternumber": "68533736"
+},
+{
+    "id": "13274",
+    "href": "/meters/13274",
+    "serialnumber": "20821819",
+    "manufacturer": "KAM",
+    "metertype": "flowIQ 31xx",
+    "consumptiontype": "VolumeCold",
+    "currentinstallation": {
+        "id": 3114,
+        "href": "/installations/3114"
+    },
+    "confignumber": "0100246123333",
+    "typenumber": "03140C2U879",
+    "meternumber": "20821819"
+}
+
+
+]
