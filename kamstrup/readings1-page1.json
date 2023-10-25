@@ -1,0 +1,142 @@
+[
+    {
+        "obisCode": "0.1.96.8.0.255",
+        "registerName": "HourCounter",
+        "readTimeUtc": "2023-09-09T11:01:11Z",
+        "meter": {
+            "id": 13867,
+            "href": "/meters/13867",
+            "serialNumber": "23616230",
+            "manufacturer": "KAW"
+        },
+        "value": 74044,
+        "unit": "h",
+        "scale": 0
+    },
+    {
+        "obisCode": "8.1.1.1.0.255",
+        "registerName": "Volume1Logged",
+        "readTimeUtc": "2023-09-09T11:01:11Z",
+        "meter": {
+            "id": 13867,
+            "href": "/meters/13867",
+            "serialNumber": "23616230",
+            "manufacturer": "KAW"
+        },
+        "value": 726269,
+        "unit": "m3",
+        "scale": -3
+    },
+    {
+        "obisCode": "8.1.128.4.0.255",
+        "registerName": "TempAmbientMinLogged",
+        "readTimeUtc": "2023-09-09T11:01:11Z",
+        "meter": {
+            "id": 13867,
+            "href": "/meters/13867",
+            "serialNumber": "23616230",
+            "manufacturer": "KAW"
+        },
+        "value": 15,
+        "unit": "C",
+        "scale": 0
+    },
+    {
+        "obisCode": "8.1.3.4.0.255",
+        "registerName": "TempMediaMinLogged",
+        "readTimeUtc": "2023-09-09T11:01:11Z",
+        "meter": {
+            "id": 13867,
+            "href": "/meters/13867",
+            "serialNumber": "23616230",
+            "manufacturer": "KAW"
+        },
+        "value": 13,
+        "unit": "C",
+        "scale": 0
+    },
+    {
+        "obisCode": "8.1.1.0.0.255",
+        "registerName": "Volume1",
+        "readTimeUtc": "2023-09-09T10:52:05Z",
+        "meter": {
+            "id": 13867,
+            "href": "/meters/13867",
+            "serialNumber": "23616230",
+            "manufacturer": "KAW"
+        },
+        "value": 1802781,
+        "unit": "m3",
+        "scale": -3
+    },
+    {
+        "obisCode": "0.1.96.8.0.255",
+        "registerName": "HourCounter",
+        "readTimeUtc": "2023-09-09T10:52:05Z",
+        "meter": {
+            "id": 2434,
+            "href": "/meters/2434",
+            "serialNumber": "68533732",
+            "manufacturer": "KAM"
+        },
+        "value": 74044,
+        "unit": "h",
+        "scale": 0
+    },
+    {
+        "obisCode": "8.1.1.1.0.255",
+        "registerName": "Volume1Logged",
+        "readTimeUtc": "2023-09-09T10:52:05Z",
+        "meter": {
+            "id": 2434,
+            "href": "/meters/2434",
+            "serialNumber": "68533732",
+            "manufacturer": "KAM"
+        },
+        "value": 1796927,
+        "unit": "m3",
+        "scale": -3
+    },
+    {
+        "obisCode": "8.1.128.4.0.255",
+        "registerName": "TempAmbientMinLogged",
+        "readTimeUtc": "2023-09-09T10:52:05Z",
+        "meter": {
+            "id": 2434,
+            "href": "/meters/2434",
+            "serialNumber": "68533732",
+            "manufacturer": "KAM"
+        },
+        "value": 15,
+        "unit": "C",
+        "scale": 0
+    },
+    {
+        "obisCode": "8.1.3.4.0.255",
+        "registerName": "TempMediaMinLogged",
+        "readTimeUtc": "2023-09-09T10:52:05Z",
+        "meter": {
+            "id": 2434,
+            "href": "/meters/2434",
+            "serialNumber": "68533732",
+            "manufacturer": "KAM"
+        },
+        "value": 14,
+        "unit": "C",
+        "scale": 0
+    },
+    {
+        "obisCode": "8.1.1.0.0.255",
+        "registerName": "Volume1",
+        "readTimeUtc": "2023-09-09T10:40:40Z",
+        "meter": {
+            "id": 13335,
+            "href": "/meters/13335",
+            "serialNumber": "20821880",
+            "manufacturer": "KAM"
+        },
+        "value": 688084,
+        "unit": "m3",
+        "scale": -3
+    }
+]
