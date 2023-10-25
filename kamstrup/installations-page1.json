@@ -59,16 +59,16 @@
         "meterHistory": [
             {
                 "meter": {
-                    "id": 2435,
-                    "href": "/meters/2435"
+                    "id": 2434,
+                    "href": "/meters/2434"
                 },
                 "fromDateUTC": "0001-01-01T00:00:00Z",
                 "toDateUTC": "2020-09-25T06:15:19Z"
             },
             {
                 "meter": {
-                    "id": 13344,
-                    "href": "/meters/13344"
+                    "id": 13335,
+                    "href": "/meters/13335"
                 },
                 "fromDateUTC": "2020-09-25T06:15:19Z",
                 "toDateUTC": "9999-12-31T23:59:59.9999999Z"
@@ -87,16 +87,16 @@
         "meterHistory": [
             {
                 "meter": {
-                    "id": 2436,
-                    "href": "/meters/2436"
+                    "id": 2435,
+                    "href": "/meters/2435"
                 },
                 "fromDateUTC": "0001-01-01T00:00:00Z",
                 "toDateUTC": "2020-05-11T09:00:25Z"
             },
             {
                 "meter": {
-                    "id": 13279,
-                    "href": "/meters/13279"
+                    "id": 13344,
+                    "href": "/meters/13344"
                 },
                 "fromDateUTC": "2020-05-11T09:00:25Z",
                 "toDateUTC": "9999-12-31T23:59:59.9999999Z"
@@ -115,7 +115,7 @@
         "meterHistory": [
             {
                 "meter": {
-                    "id": 2437,
+                    "id": 2436,
                     "href": "/meters/2437"
                 },
                 "fromDateUTC": "0001-01-01T00:00:00Z",
@@ -123,8 +123,8 @@
             },
             {
                 "meter": {
-                    "id": 13280,
-                    "href": "/meters/13280"
+                    "id": 13279,
+                    "href": "/meters/13279"
                 },
                 "fromDateUTC": "2020-05-11T08:58:01Z",
                 "toDateUTC": "9999-12-31T23:59:59.9999999Z"
