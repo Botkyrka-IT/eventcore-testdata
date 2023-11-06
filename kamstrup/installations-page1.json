@@ -48,34 +48,6 @@
         ]
     },
     {
-        "id": 3111,
-        "address": "TULLINGEBERGSVÄGEN 3 -11",
-        "postalCode": "14645",
-        "city": "TULLINGE",
-        "format": "GPS",
-        "longitude": 17.904343,
-        "latitude": 59.210696,
-        "href": "/installations/3111",
-        "meterHistory": [
-            {
-                "meter": {
-                    "id": 2434,
-                    "href": "/meters/2434"
-                },
-                "fromDateUTC": "0001-01-01T00:00:00Z",
-                "toDateUTC": "2020-09-25T06:15:19Z"
-            },
-            {
-                "meter": {
-                    "id": 13335,
-                    "href": "/meters/13335"
-                },
-                "fromDateUTC": "2020-09-25T06:15:19Z",
-                "toDateUTC": "9999-12-31T23:59:59.9999999Z"
-            }
-        ]
-    },
-    {
         "id": 3112,
         "address": "HÅLVÄGEN 26",
         "postalCode": "14753",
@@ -99,34 +71,6 @@
                     "href": "/meters/13344"
                 },
                 "fromDateUTC": "2020-05-11T09:00:25Z",
-                "toDateUTC": "9999-12-31T23:59:59.9999999Z"
-            }
-        ]
-    },
-    {
-        "id": 3113,
-        "address": "HÅLVÄGEN 26",
-        "postalCode": "14753",
-        "city": "TUMBA",
-        "format": "GPS",
-        "longitude": 17.836628,
-        "latitude": 59.193302,
-        "href": "/installations/3113",
-        "meterHistory": [
-            {
-                "meter": {
-                    "id": 2436,
-                    "href": "/meters/2437"
-                },
-                "fromDateUTC": "0001-01-01T00:00:00Z",
-                "toDateUTC": "2020-05-11T08:58:01Z"
-            },
-            {
-                "meter": {
-                    "id": 13279,
-                    "href": "/meters/13279"
-                },
-                "fromDateUTC": "2020-05-11T08:58:01Z",
                 "toDateUTC": "9999-12-31T23:59:59.9999999Z"
             }
         ]
