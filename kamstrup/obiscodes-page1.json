@@ -1,0 +1,2576 @@
+[
+    {
+        "name": "Volume1",
+        "obisCode": "8.1.1.0.0.255",
+        "obisCodeID": 2,
+        "registerID": 0
+    },
+    {
+        "name": "Volume1",
+        "obisCode": "9.1.1.0.0.255",
+        "obisCodeID": 3,
+        "registerID": 0
+    },
+    {
+        "name": "Volume1",
+        "obisCode": "5.1.4.0.0.255",
+        "obisCodeID": 40,
+        "registerID": 0
+    },
+    {
+        "name": "Volume1",
+        "obisCode": "6.1.4.0.0.255",
+        "obisCodeID": 41,
+        "registerID": 0
+    },
+    {
+        "name": "Volume1",
+        "obisCode": "15.1.1.128.0.255",
+        "obisCodeID": 476,
+        "registerID": 0
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "15.1.97.97.1.128",
+        "obisCodeID": 477,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "0.1.97.97.2.128",
+        "obisCodeID": 344,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "0.1.97.97.3.128",
+        "obisCodeID": 345,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "0.1.97.97.1.255",
+        "obisCodeID": 346,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "5.1.97.97.0.128",
+        "obisCodeID": 42,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "6.1.97.97.0.128",
+        "obisCodeID": 43,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "8.1.97.97.0.128",
+        "obisCodeID": 6,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "9.1.97.97.0.128",
+        "obisCodeID": 7,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "5.1.161.0.0.255",
+        "obisCodeID": 144,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "6.1.161.0.0.255",
+        "obisCodeID": 145,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "8.1.161.0.0.255",
+        "obisCodeID": 146,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "9.1.161.0.0.255",
+        "obisCodeID": 147,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "15.1.97.97.0.128",
+        "obisCodeID": 120,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "8.1.163.0.0.255",
+        "obisCodeID": 214,
+        "registerID": 1
+    },
+    {
+        "name": "InfoCode",
+        "obisCode": "9.1.163.0.0.255",
+        "obisCodeID": 215,
+        "registerID": 1
+    },
+    {
+        "name": "HourCounter",
+        "obisCode": "0.1.96.8.0.255",
+        "obisCodeID": 10,
+        "registerID": 2
+    },
+    {
+        "name": "Flow1",
+        "obisCode": "8.1.2.0.0.255",
+        "obisCodeID": 12,
+        "registerID": 3
+    },
+    {
+        "name": "Flow1",
+        "obisCode": "9.1.2.0.0.255",
+        "obisCodeID": 13,
+        "registerID": 3
+    },
+    {
+        "name": "Flow1",
+        "obisCode": "5.1.9.0.0.255",
+        "obisCodeID": 44,
+        "registerID": 3
+    },
+    {
+        "name": "Flow1",
+        "obisCode": "6.1.9.0.0.255",
+        "obisCodeID": 45,
+        "registerID": 3
+    },
+    {
+        "name": "InputA",
+        "obisCode": "5.1.130.0.0.255",
+        "obisCodeID": 46,
+        "registerID": 4
+    },
+    {
+        "name": "InputA",
+        "obisCode": "6.1.130.0.0.255",
+        "obisCodeID": 47,
+        "registerID": 4
+    },
+    {
+        "name": "InputA",
+        "obisCode": "5.1.153.0.0.255",
+        "obisCodeID": 50,
+        "registerID": 4
+    },
+    {
+        "name": "InputA",
+        "obisCode": "6.1.153.0.0.255",
+        "obisCodeID": 51,
+        "registerID": 4
+    },
+    {
+        "name": "InputA",
+        "obisCode": "8.1.130.0.0.255",
+        "obisCodeID": 14,
+        "registerID": 4
+    },
+    {
+        "name": "InputA",
+        "obisCode": "9.1.130.0.0.255",
+        "obisCodeID": 15,
+        "registerID": 4
+    },
+    {
+        "name": "InputA",
+        "obisCode": "8.1.153.0.0.255",
+        "obisCodeID": 18,
+        "registerID": 4
+    },
+    {
+        "name": "InputA",
+        "obisCode": "9.1.153.0.0.255",
+        "obisCodeID": 19,
+        "registerID": 4
+    },
+    {
+        "name": "InputA",
+        "obisCode": "6.1.158.0.0.255",
+        "obisCodeID": 353,
+        "registerID": 4
+    },
+    {
+        "name": "InputB",
+        "obisCode": "6.1.159.0.0.255",
+        "obisCodeID": 354,
+        "registerID": 5
+    },
+    {
+        "name": "InputB",
+        "obisCode": "8.1.154.0.0.255",
+        "obisCodeID": 20,
+        "registerID": 5
+    },
+    {
+        "name": "InputB",
+        "obisCode": "9.1.154.0.0.255",
+        "obisCodeID": 21,
+        "registerID": 5
+    },
+    {
+        "name": "InputB",
+        "obisCode": "8.1.131.0.0.255",
+        "obisCodeID": 16,
+        "registerID": 5
+    },
+    {
+        "name": "InputB",
+        "obisCode": "9.1.131.0.0.255",
+        "obisCodeID": 17,
+        "registerID": 5
+    },
+    {
+        "name": "InputB",
+        "obisCode": "5.1.154.0.0.255",
+        "obisCodeID": 52,
+        "registerID": 5
+    },
+    {
+        "name": "InputB",
+        "obisCode": "6.1.154.0.0.255",
+        "obisCodeID": 53,
+        "registerID": 5
+    },
+    {
+        "name": "InputB",
+        "obisCode": "5.1.131.0.0.255",
+        "obisCodeID": 48,
+        "registerID": 5
+    },
+    {
+        "name": "InputB",
+        "obisCode": "6.1.131.0.0.255",
+        "obisCodeID": 49,
+        "registerID": 5
+    },
+    {
+        "name": "Date",
+        "obisCode": "8.1.96.56.0.255",
+        "obisCodeID": 22,
+        "registerID": 8
+    },
+    {
+        "name": "Date",
+        "obisCode": "9.1.96.56.0.255",
+        "obisCodeID": 23,
+        "registerID": 8
+    },
+    {
+        "name": "Date",
+        "obisCode": "5.1.96.56.0.255",
+        "obisCodeID": 86,
+        "registerID": 8
+    },
+    {
+        "name": "Date",
+        "obisCode": "6.1.96.56.0.255",
+        "obisCodeID": 87,
+        "registerID": 8
+    },
+    {
+        "name": "Volume1Logged",
+        "obisCode": "5.1.4.1.0.255",
+        "obisCodeID": 72,
+        "registerID": 9
+    },
+    {
+        "name": "Volume1Logged",
+        "obisCode": "6.1.4.1.0.255",
+        "obisCodeID": 73,
+        "registerID": 9
+    },
+    {
+        "name": "Volume1Logged",
+        "obisCode": "8.1.1.1.0.255",
+        "obisCodeID": 24,
+        "registerID": 9
+    },
+    {
+        "name": "Volume1Logged",
+        "obisCode": "9.1.1.1.0.255",
+        "obisCodeID": 25,
+        "registerID": 9
+    },
+    {
+        "name": "MaxFlow1Logged",
+        "obisCode": "8.1.9.3.0.255",
+        "obisCodeID": 26,
+        "registerID": 10
+    },
+    {
+        "name": "MaxFlow1Logged",
+        "obisCode": "9.1.9.3.0.255",
+        "obisCodeID": 27,
+        "registerID": 10
+    },
+    {
+        "name": "MaxFlow1Logged",
+        "obisCode": "6.1.9.3.0.255",
+        "obisCodeID": 196,
+        "registerID": 10
+    },
+    {
+        "name": "MaxFlow1Logged",
+        "obisCode": "5.1.9.3.0.255",
+        "obisCodeID": 197,
+        "registerID": 10
+    },
+    {
+        "name": "InputALogged",
+        "obisCode": "8.1.130.1.0.255",
+        "obisCodeID": 28,
+        "registerID": 11
+    },
+    {
+        "name": "InputALogged",
+        "obisCode": "9.1.130.1.0.255",
+        "obisCodeID": 29,
+        "registerID": 11
+    },
+    {
+        "name": "InputALogged",
+        "obisCode": "5.1.130.1.0.255",
+        "obisCodeID": 74,
+        "registerID": 11
+    },
+    {
+        "name": "InputALogged",
+        "obisCode": "6.1.130.1.0.255",
+        "obisCodeID": 75,
+        "registerID": 11
+    },
+    {
+        "name": "InputALogged",
+        "obisCode": "8.1.153.1.0.255",
+        "obisCodeID": 32,
+        "registerID": 11
+    },
+    {
+        "name": "InputALogged",
+        "obisCode": "9.1.153.1.0.255",
+        "obisCodeID": 33,
+        "registerID": 11
+    },
+    {
+        "name": "InputALogged",
+        "obisCode": "5.1.153.1.0.255",
+        "obisCodeID": 78,
+        "registerID": 11
+    },
+    {
+        "name": "InputALogged",
+        "obisCode": "6.1.153.1.0.255",
+        "obisCodeID": 79,
+        "registerID": 11
+    },
+    {
+        "name": "InputBLogged",
+        "obisCode": "5.1.154.1.0.255",
+        "obisCodeID": 80,
+        "registerID": 12
+    },
+    {
+        "name": "InputBLogged",
+        "obisCode": "6.1.154.1.0.255",
+        "obisCodeID": 81,
+        "registerID": 12
+    },
+    {
+        "name": "InputBLogged",
+        "obisCode": "8.1.154.1.0.255",
+        "obisCodeID": 34,
+        "registerID": 12
+    },
+    {
+        "name": "InputBLogged",
+        "obisCode": "9.1.154.1.0.255",
+        "obisCodeID": 35,
+        "registerID": 12
+    },
+    {
+        "name": "InputBLogged",
+        "obisCode": "5.1.131.1.0.255",
+        "obisCodeID": 76,
+        "registerID": 12
+    },
+    {
+        "name": "InputBLogged",
+        "obisCode": "6.1.131.1.0.255",
+        "obisCodeID": 77,
+        "registerID": 12
+    },
+    {
+        "name": "InputBLogged",
+        "obisCode": "8.1.131.1.0.255",
+        "obisCodeID": 30,
+        "registerID": 12
+    },
+    {
+        "name": "InputBLogged",
+        "obisCode": "9.1.131.1.0.255",
+        "obisCodeID": 31,
+        "registerID": 12
+    },
+    {
+        "name": "LogDayReadOut",
+        "obisCode": "8.1.0.1.10.255",
+        "obisCodeID": 36,
+        "registerID": 15
+    },
+    {
+        "name": "LogDayReadOut",
+        "obisCode": "9.1.0.1.10.255",
+        "obisCodeID": 37,
+        "registerID": 15
+    },
+    {
+        "name": "LogDayReadOut",
+        "obisCode": "5.1.0.1.10.255",
+        "obisCodeID": 82,
+        "registerID": 15
+    },
+    {
+        "name": "LogDayReadOut",
+        "obisCode": "6.1.0.1.10.255",
+        "obisCodeID": 83,
+        "registerID": 15
+    },
+    {
+        "name": "LogDayReadOut",
+        "obisCode": "4.1.0.1.10.255",
+        "obisCodeID": 496,
+        "registerID": 15
+    },
+    {
+        "name": "EnergyHeatLogged",
+        "obisCode": "6.1.1.1.0.255",
+        "obisCodeID": 71,
+        "registerID": 16
+    },
+    {
+        "name": "EnergyCoolingLogged",
+        "obisCode": "5.1.1.1.0.255",
+        "obisCodeID": 70,
+        "registerID": 17
+    },
+    {
+        "name": "EnergytfLogged",
+        "obisCode": "6.1.141.1.0.255",
+        "obisCodeID": 84,
+        "registerID": 18
+    },
+    {
+        "name": "EnergytfLogged",
+        "obisCode": "5.1.141.1.0.255",
+        "obisCodeID": 198,
+        "registerID": 18
+    },
+    {
+        "name": "EnergytrLogged",
+        "obisCode": "5.1.143.1.0.255",
+        "obisCodeID": 199,
+        "registerID": 19
+    },
+    {
+        "name": "EnergytrLogged",
+        "obisCode": "6.1.143.1.0.255",
+        "obisCodeID": 85,
+        "registerID": 19
+    },
+    {
+        "name": "Energy1",
+        "obisCode": "6.1.1.0.0.255",
+        "obisCodeID": 39,
+        "registerID": 20
+    },
+    {
+        "name": "Energy3",
+        "obisCode": "5.1.1.0.0.255",
+        "obisCodeID": 38,
+        "registerID": 21
+    },
+    {
+        "name": "Energy8",
+        "obisCode": "5.1.141.0.0.255",
+        "obisCodeID": 58,
+        "registerID": 22
+    },
+    {
+        "name": "Energy8",
+        "obisCode": "6.1.141.0.0.255",
+        "obisCodeID": 59,
+        "registerID": 22
+    },
+    {
+        "name": "Energy8",
+        "obisCode": "8.1.141.0.0.255",
+        "obisCodeID": 492,
+        "registerID": 22
+    },
+    {
+        "name": "Energy8",
+        "obisCode": "9.1.141.0.0.255",
+        "obisCodeID": 493,
+        "registerID": 22
+    },
+    {
+        "name": "Energy9",
+        "obisCode": "5.1.143.0.0.255",
+        "obisCodeID": 60,
+        "registerID": 23
+    },
+    {
+        "name": "Energy9",
+        "obisCode": "6.1.143.0.0.255",
+        "obisCodeID": 61,
+        "registerID": 23
+    },
+    {
+        "name": "Temperature1",
+        "obisCode": "5.1.10.0.0.255",
+        "obisCodeID": 54,
+        "registerID": 24
+    },
+    {
+        "name": "Temperature1",
+        "obisCode": "6.1.10.0.0.255",
+        "obisCodeID": 55,
+        "registerID": 24
+    },
+    {
+        "name": "Temperature1",
+        "obisCode": "8.1.3.0.0.255",
+        "obisCodeID": 98,
+        "registerID": 24
+    },
+    {
+        "name": "Temperature1",
+        "obisCode": "9.1.3.0.0.255",
+        "obisCodeID": 99,
+        "registerID": 24
+    },
+    {
+        "name": "Temperature2",
+        "obisCode": "8.1.11.0.0.255",
+        "obisCodeID": 349,
+        "registerID": 25
+    },
+    {
+        "name": "Temperature2",
+        "obisCode": "9.1.11.0.0.255",
+        "obisCodeID": 350,
+        "registerID": 25
+    },
+    {
+        "name": "Temperature2",
+        "obisCode": "5.1.11.0.0.255",
+        "obisCodeID": 56,
+        "registerID": 25
+    },
+    {
+        "name": "Temperature2",
+        "obisCode": "6.1.11.0.0.255",
+        "obisCodeID": 57,
+        "registerID": 25
+    },
+    {
+        "name": "MaxPower1Logged",
+        "obisCode": "5.1.8.3.0.255",
+        "obisCodeID": 62,
+        "registerID": 26
+    },
+    {
+        "name": "MaxPower1Logged",
+        "obisCode": "6.1.8.3.0.255",
+        "obisCodeID": 63,
+        "registerID": 26
+    },
+    {
+        "name": "Tariff2",
+        "obisCode": "5.1.133.0.0.255",
+        "obisCodeID": 64,
+        "registerID": 27
+    },
+    {
+        "name": "Tariff2",
+        "obisCode": "6.1.133.0.0.255",
+        "obisCodeID": 65,
+        "registerID": 27
+    },
+    {
+        "name": "Tariff3",
+        "obisCode": "5.1.134.0.0.255",
+        "obisCodeID": 66,
+        "registerID": 28
+    },
+    {
+        "name": "Tariff3",
+        "obisCode": "6.1.134.0.0.255",
+        "obisCodeID": 67,
+        "registerID": 28
+    },
+    {
+        "name": "Power1",
+        "obisCode": "5.1.8.0.0.255",
+        "obisCodeID": 68,
+        "registerID": 29
+    },
+    {
+        "name": "Power1",
+        "obisCode": "6.1.8.0.0.255",
+        "obisCodeID": 69,
+        "registerID": 29
+    },
+    {
+        "name": "TempMediaAvgLogged",
+        "obisCode": "8.1.3.1.0.255",
+        "obisCodeID": 88,
+        "registerID": 30
+    },
+    {
+        "name": "TempMediaAvgLogged",
+        "obisCode": "9.1.3.1.0.255",
+        "obisCodeID": 89,
+        "registerID": 30
+    },
+    {
+        "name": "TempAmbientMinLogged",
+        "obisCode": "8.1.128.4.0.255",
+        "obisCodeID": 92,
+        "registerID": 32
+    },
+    {
+        "name": "TempAmbientMinLogged",
+        "obisCode": "9.1.128.4.0.255",
+        "obisCodeID": 93,
+        "registerID": 32
+    },
+    {
+        "name": "TempAmbientMaxLogged",
+        "obisCode": "8.1.128.5.0.255",
+        "obisCodeID": 94,
+        "registerID": 33
+    },
+    {
+        "name": "TempAmbientMaxLogged",
+        "obisCode": "9.1.128.5.0.255",
+        "obisCodeID": 95,
+        "registerID": 33
+    },
+    {
+        "name": "TempAmbientAvgLogged",
+        "obisCode": "8.1.128.1.0.255",
+        "obisCodeID": 96,
+        "registerID": 34
+    },
+    {
+        "name": "TempAmbientAvgLogged",
+        "obisCode": "9.1.128.1.0.255",
+        "obisCodeID": 97,
+        "registerID": 34
+    },
+    {
+        "name": "TempMediaMinLogged",
+        "obisCode": "8.1.3.4.0.255",
+        "obisCodeID": 116,
+        "registerID": 35
+    },
+    {
+        "name": "TempMediaMinLogged",
+        "obisCode": "9.1.3.4.0.255",
+        "obisCodeID": 117,
+        "registerID": 35
+    },
+    {
+        "name": "PressureMinAbsolute",
+        "obisCode": "15.1.128.2.3.255",
+        "obisCodeID": 121,
+        "registerID": 37
+    },
+    {
+        "name": "PressureMinRelative",
+        "obisCode": "15.1.128.3.3.255",
+        "obisCodeID": 122,
+        "registerID": 38
+    },
+    {
+        "name": "PressureMaxAbsolute",
+        "obisCode": "15.1.128.2.2.255",
+        "obisCodeID": 123,
+        "registerID": 39
+    },
+    {
+        "name": "PressureMaxRelative",
+        "obisCode": "15.1.128.3.2.255",
+        "obisCodeID": 124,
+        "registerID": 40
+    },
+    {
+        "name": "PressureAvgAbsolute",
+        "obisCode": "15.1.128.2.1.255",
+        "obisCodeID": 125,
+        "registerID": 41
+    },
+    {
+        "name": "PressureAvgRelative",
+        "obisCode": "15.1.128.3.1.255",
+        "obisCodeID": 126,
+        "registerID": 42
+    },
+    {
+        "name": "PressureSigma2",
+        "obisCode": "15.1.129.1.1.255",
+        "obisCodeID": 127,
+        "registerID": 43
+    },
+    {
+        "name": "PressureSigma3",
+        "obisCode": "15.1.130.1.1.255",
+        "obisCodeID": 128,
+        "registerID": 44
+    },
+    {
+        "name": "Volume1Reverse",
+        "obisCode": "8.1.162.0.0.255",
+        "obisCodeID": 131,
+        "registerID": 46
+    },
+    {
+        "name": "Volume1Reverse",
+        "obisCode": "9.1.162.0.0.255",
+        "obisCodeID": 132,
+        "registerID": 46
+    },
+    {
+        "name": "Volume2",
+        "obisCode": "5.1.6.0.0.255",
+        "obisCodeID": 133,
+        "registerID": 47
+    },
+    {
+        "name": "Volume2",
+        "obisCode": "6.1.6.0.0.255",
+        "obisCodeID": 134,
+        "registerID": 47
+    },
+    {
+        "name": "Volume2",
+        "obisCode": "8.2.1.0.0.255",
+        "obisCodeID": 486,
+        "registerID": 47
+    },
+    {
+        "name": "Volume2",
+        "obisCode": "9.2.1.0.0.255",
+        "obisCodeID": 487,
+        "registerID": 47
+    },
+    {
+        "name": "Energy2",
+        "obisCode": "6.1.138.0.0.255",
+        "obisCodeID": 135,
+        "registerID": 48
+    },
+    {
+        "name": "Energy4",
+        "obisCode": "6.1.156.0.0.255",
+        "obisCodeID": 136,
+        "registerID": 49
+    },
+    {
+        "name": "Energy5",
+        "obisCode": "6.1.157.0.0.255",
+        "obisCodeID": 137,
+        "registerID": 50
+    },
+    {
+        "name": "Energy6",
+        "obisCode": "6.1.139.0.0.255",
+        "obisCodeID": 138,
+        "registerID": 51
+    },
+    {
+        "name": "Energy7",
+        "obisCode": "6.1.140.0.0.255",
+        "obisCodeID": 139,
+        "registerID": 52
+    },
+    {
+        "name": "Mass1",
+        "obisCode": "5.1.5.0.0.255",
+        "obisCodeID": 140,
+        "registerID": 53
+    },
+    {
+        "name": "Mass1",
+        "obisCode": "6.1.5.0.0.255",
+        "obisCodeID": 141,
+        "registerID": 53
+    },
+    {
+        "name": "Mass2",
+        "obisCode": "5.1.7.0.0.255",
+        "obisCodeID": 142,
+        "registerID": 54
+    },
+    {
+        "name": "Mass2",
+        "obisCode": "6.1.7.0.0.255",
+        "obisCodeID": 143,
+        "registerID": 54
+    },
+    {
+        "name": "Tariff4",
+        "obisCode": "5.1.160.0.0.255",
+        "obisCodeID": 148,
+        "registerID": 56
+    },
+    {
+        "name": "Tariff4",
+        "obisCode": "6.1.160.0.0.255",
+        "obisCodeID": 149,
+        "registerID": 56
+    },
+    {
+        "name": "Tariff2Logged",
+        "obisCode": "5.1.1.3.2.255",
+        "obisCodeID": 150,
+        "registerID": 57
+    },
+    {
+        "name": "Tariff2Logged",
+        "obisCode": "6.1.1.3.2.255",
+        "obisCodeID": 151,
+        "registerID": 57
+    },
+    {
+        "name": "Tariff3Logged",
+        "obisCode": "5.1.1.3.3.255",
+        "obisCodeID": 152,
+        "registerID": 58
+    },
+    {
+        "name": "Tariff3Logged",
+        "obisCode": "6.1.1.3.3.255",
+        "obisCodeID": 153,
+        "registerID": 58
+    },
+    {
+        "name": "Tariff4Logged",
+        "obisCode": "5.1.160.0.1.255",
+        "obisCodeID": 154,
+        "registerID": 59
+    },
+    {
+        "name": "Tariff4Logged",
+        "obisCode": "6.1.160.0.1.255",
+        "obisCodeID": 155,
+        "registerID": 59
+    },
+    {
+        "name": "MaxFlow1",
+        "obisCode": "5.1.9.5.0.255",
+        "obisCodeID": 156,
+        "registerID": 60
+    },
+    {
+        "name": "MaxFlow1",
+        "obisCode": "6.1.9.5.0.255",
+        "obisCodeID": 157,
+        "registerID": 60
+    },
+    {
+        "name": "MaxFlow1",
+        "obisCode": "8.1.9.5.0.255",
+        "obisCodeID": 158,
+        "registerID": 60
+    },
+    {
+        "name": "MaxFlow1",
+        "obisCode": "9.1.9.5.0.255",
+        "obisCodeID": 159,
+        "registerID": 60
+    },
+    {
+        "name": "MaxFlow1Date",
+        "obisCode": "5.1.9.5.11.255",
+        "obisCodeID": 160,
+        "registerID": 61
+    },
+    {
+        "name": "MaxFlow1Date",
+        "obisCode": "6.1.9.5.11.255",
+        "obisCodeID": 161,
+        "registerID": 61
+    },
+    {
+        "name": "MaxFlow1Date",
+        "obisCode": "8.1.9.5.11.255",
+        "obisCodeID": 162,
+        "registerID": 61
+    },
+    {
+        "name": "MaxFlow1Date",
+        "obisCode": "9.1.9.5.11.255",
+        "obisCodeID": 163,
+        "registerID": 61
+    },
+    {
+        "name": "MaxPower1",
+        "obisCode": "5.1.8.5.0.255",
+        "obisCodeID": 164,
+        "registerID": 62
+    },
+    {
+        "name": "MaxPower1",
+        "obisCode": "6.1.8.5.0.255",
+        "obisCodeID": 165,
+        "registerID": 62
+    },
+    {
+        "name": "MaxPower1Date",
+        "obisCode": "5.1.8.5.11.255",
+        "obisCodeID": 166,
+        "registerID": 63
+    },
+    {
+        "name": "MaxPower1Date",
+        "obisCode": "6.1.8.5.11.255",
+        "obisCodeID": 167,
+        "registerID": 63
+    },
+    {
+        "name": "TemperatureDifference1",
+        "obisCode": "5.1.12.0.0.255",
+        "obisCodeID": 168,
+        "registerID": 64
+    },
+    {
+        "name": "TemperatureDifference1",
+        "obisCode": "6.1.12.0.0.255",
+        "obisCodeID": 169,
+        "registerID": 64
+    },
+    {
+        "name": "TemperatureDifference1",
+        "obisCode": "8.1.12.0.0.255",
+        "obisCodeID": 351,
+        "registerID": 64
+    },
+    {
+        "name": "TemperatureDifference1",
+        "obisCode": "9.1.12.0.0.255",
+        "obisCodeID": 352,
+        "registerID": 64
+    },
+    {
+        "name": "ErrorHourCounter",
+        "obisCode": "5.1.148.0.0.255",
+        "obisCodeID": 170,
+        "registerID": 65
+    },
+    {
+        "name": "ErrorHourCounter",
+        "obisCode": "6.1.148.0.0.255",
+        "obisCodeID": 171,
+        "registerID": 65
+    },
+    {
+        "name": "ErrorHourCounter",
+        "obisCode": "8.1.148.0.0.255",
+        "obisCodeID": 172,
+        "registerID": 65
+    },
+    {
+        "name": "ErrorHourCounter",
+        "obisCode": "9.1.148.0.0.255",
+        "obisCodeID": 173,
+        "registerID": 65
+    },
+    {
+        "name": "Temperature5ReferenceOutletTemperature",
+        "obisCode": "5.1.165.0.0.255",
+        "obisCodeID": 174,
+        "registerID": 66
+    },
+    {
+        "name": "Temperature5ReferenceOutletTemperature",
+        "obisCode": "6.1.165.0.0.255",
+        "obisCodeID": 175,
+        "registerID": 66
+    },
+    {
+        "name": "HeatAMinusWithDiscount",
+        "obisCode": "5.1.163.20.0.255",
+        "obisCodeID": 176,
+        "registerID": 67
+    },
+    {
+        "name": "HeatAMinusWithDiscount",
+        "obisCode": "6.1.163.20.0.255",
+        "obisCodeID": 177,
+        "registerID": 67
+    },
+    {
+        "name": "HeatAPluswithSurcharge",
+        "obisCode": "5.1.163.22.0.255",
+        "obisCodeID": 178,
+        "registerID": 68
+    },
+    {
+        "name": "HeatAPluswithSurcharge",
+        "obisCode": "6.1.163.22.0.255",
+        "obisCodeID": 179,
+        "registerID": 68
+    },
+    {
+        "name": "HeatAMinusWithDiscountLogged",
+        "obisCode": "5.1.163.20.1.255",
+        "obisCodeID": 180,
+        "registerID": 69
+    },
+    {
+        "name": "HeatAMinusWithDiscountLogged",
+        "obisCode": "6.1.163.20.1.255",
+        "obisCodeID": 181,
+        "registerID": 69
+    },
+    {
+        "name": "HeatAPlusWithSurchargeLogged",
+        "obisCode": "5.1.163.22.1.255",
+        "obisCodeID": 182,
+        "registerID": 70
+    },
+    {
+        "name": "HeatAPlusWithSurchargeLogged",
+        "obisCode": "6.1.163.22.1.255",
+        "obisCodeID": 183,
+        "registerID": 70
+    },
+    {
+        "name": "InputBPower",
+        "obisCode": "5.1.154.0.1.255",
+        "obisCodeID": 184,
+        "registerID": 71
+    },
+    {
+        "name": "InputBPower",
+        "obisCode": "6.1.154.0.1.255",
+        "obisCodeID": 185,
+        "registerID": 71
+    },
+    {
+        "name": "InputBPower",
+        "obisCode": "8.1.154.0.1.255",
+        "obisCodeID": 186,
+        "registerID": 71
+    },
+    {
+        "name": "InputBPower",
+        "obisCode": "9.1.154.0.1.255",
+        "obisCodeID": 187,
+        "registerID": 71
+    },
+    {
+        "name": "CoefficientOfPerformance",
+        "obisCode": "5.1.164.0.0.255",
+        "obisCodeID": 188,
+        "registerID": 72
+    },
+    {
+        "name": "CoefficientOfPerformance",
+        "obisCode": "6.1.164.0.0.255",
+        "obisCodeID": 189,
+        "registerID": 72
+    },
+    {
+        "name": "CoefficientOfPerformanceLogged",
+        "obisCode": "5.1.164.0.3.255",
+        "obisCodeID": 194,
+        "registerID": 75
+    },
+    {
+        "name": "CoefficientOfPerformanceLogged",
+        "obisCode": "6.1.164.0.3.255",
+        "obisCodeID": 195,
+        "registerID": 75
+    },
+    {
+        "name": "MinFlow1",
+        "obisCode": "5.1.9.4.4.255",
+        "obisCodeID": 200,
+        "registerID": 76
+    },
+    {
+        "name": "MinFlow1",
+        "obisCode": "6.1.9.4.4.255",
+        "obisCodeID": 201,
+        "registerID": 76
+    },
+    {
+        "name": "MinFlow1",
+        "obisCode": "8.1.2.4.4.255",
+        "obisCodeID": 202,
+        "registerID": 76
+    },
+    {
+        "name": "MinFlow1",
+        "obisCode": "9.1.2.4.4.255",
+        "obisCodeID": 203,
+        "registerID": 76
+    },
+    {
+        "name": "MinTemp1",
+        "obisCode": "8.1.3.4.4.255",
+        "obisCodeID": 204,
+        "registerID": 77
+    },
+    {
+        "name": "MinTemp1",
+        "obisCode": "9.1.3.4.4.255",
+        "obisCodeID": 205,
+        "registerID": 77
+    },
+    {
+        "name": "AvgTemp1",
+        "obisCode": "8.1.3.0.1.255",
+        "obisCodeID": 206,
+        "registerID": 78
+    },
+    {
+        "name": "AvgTemp1",
+        "obisCode": "9.1.3.0.1.255",
+        "obisCodeID": 207,
+        "registerID": 78
+    },
+    {
+        "name": "ActiveEnergyA14",
+        "obisCode": "1.1.1.8.0.255",
+        "obisCodeID": 208,
+        "registerID": 79
+    },
+    {
+        "name": "ActiveEnergyA23",
+        "obisCode": "1.1.2.8.0.255",
+        "obisCodeID": 209,
+        "registerID": 80
+    },
+    {
+        "name": "ActualPowerP14",
+        "obisCode": "1.1.1.7.0.255",
+        "obisCodeID": 210,
+        "registerID": 81
+    },
+    {
+        "name": "ActualPowerP23",
+        "obisCode": "1.1.2.7.0.255",
+        "obisCodeID": 211,
+        "registerID": 82
+    },
+    {
+        "name": "Temperature3",
+        "obisCode": "6.1.128.0.0.255",
+        "obisCodeID": 212,
+        "registerID": 83
+    },
+    {
+        "name": "Temperature3",
+        "obisCode": "5.1.128.0.0.255",
+        "obisCodeID": 213,
+        "registerID": 83
+    },
+    {
+        "name": "InputA2",
+        "obisCode": "6.1.168.0.1.255",
+        "obisCodeID": 234,
+        "registerID": 85
+    },
+    {
+        "name": "InputA2",
+        "obisCode": "5.1.168.0.1.255",
+        "obisCodeID": 252,
+        "registerID": 85
+    },
+    {
+        "name": "InputA2",
+        "obisCode": "8.1.168.0.1.255",
+        "obisCodeID": 253,
+        "registerID": 85
+    },
+    {
+        "name": "InputA2",
+        "obisCode": "9.1.168.0.1.255",
+        "obisCodeID": 254,
+        "registerID": 85
+    },
+    {
+        "name": "InputB2",
+        "obisCode": "5.1.169.0.1.255",
+        "obisCodeID": 255,
+        "registerID": 86
+    },
+    {
+        "name": "InputB2",
+        "obisCode": "5.1.169.0.2.255",
+        "obisCodeID": 256,
+        "registerID": 86
+    },
+    {
+        "name": "InputB2",
+        "obisCode": "8.1.169.0.1.255",
+        "obisCodeID": 257,
+        "registerID": 86
+    },
+    {
+        "name": "InputB2",
+        "obisCode": "8.1.169.0.2.255",
+        "obisCodeID": 258,
+        "registerID": 86
+    },
+    {
+        "name": "InputB2",
+        "obisCode": "9.1.169.0.1.255",
+        "obisCodeID": 259,
+        "registerID": 86
+    },
+    {
+        "name": "InputB2",
+        "obisCode": "9.1.169.0.2.255",
+        "obisCodeID": 260,
+        "registerID": 86
+    },
+    {
+        "name": "InputB2",
+        "obisCode": "6.1.169.0.1.255",
+        "obisCodeID": 236,
+        "registerID": 86
+    },
+    {
+        "name": "InputB2",
+        "obisCode": "6.1.169.0.2.255",
+        "obisCodeID": 237,
+        "registerID": 86
+    },
+    {
+        "name": "Energy10",
+        "obisCode": "6.1.166.0.0.255",
+        "obisCodeID": 238,
+        "registerID": 87
+    },
+    {
+        "name": "Energy10",
+        "obisCode": "5.1.166.0.0.255",
+        "obisCodeID": 272,
+        "registerID": 87
+    },
+    {
+        "name": "Energy11",
+        "obisCode": "5.1.167.0.0.255",
+        "obisCodeID": 273,
+        "registerID": 88
+    },
+    {
+        "name": "Energy11",
+        "obisCode": "6.1.167.0.0.255",
+        "obisCodeID": 239,
+        "registerID": 88
+    },
+    {
+        "name": "MinFlow1Day",
+        "obisCode": "8.1.2.4.1.130",
+        "obisCodeID": 216,
+        "registerID": 91
+    },
+    {
+        "name": "MinFlow1Day",
+        "obisCode": "9.1.2.4.1.130",
+        "obisCodeID": 217,
+        "registerID": 91
+    },
+    {
+        "name": "MaxFlow1Day",
+        "obisCode": "8.1.2.5.1.130",
+        "obisCodeID": 218,
+        "registerID": 92
+    },
+    {
+        "name": "MaxFlow1Day",
+        "obisCode": "9.1.2.5.1.130",
+        "obisCodeID": 219,
+        "registerID": 92
+    },
+    {
+        "name": "TempAmbientMinDay",
+        "obisCode": "8.1.128.4.0.130",
+        "obisCodeID": 220,
+        "registerID": 93
+    },
+    {
+        "name": "TempAmbientMinDay",
+        "obisCode": "9.1.128.4.0.130",
+        "obisCodeID": 221,
+        "registerID": 93
+    },
+    {
+        "name": "TempAmbientAvgDay",
+        "obisCode": "8.1.128.1.0.130",
+        "obisCodeID": 222,
+        "registerID": 94
+    },
+    {
+        "name": "TempAmbientAvgDay",
+        "obisCode": "9.1.128.1.0.130",
+        "obisCodeID": 223,
+        "registerID": 94
+    },
+    {
+        "name": "TempAmbientMaxDay",
+        "obisCode": "8.1.128.5.0.130",
+        "obisCodeID": 224,
+        "registerID": 95
+    },
+    {
+        "name": "TempAmbientMaxDay",
+        "obisCode": "9.1.128.5.0.130",
+        "obisCodeID": 225,
+        "registerID": 95
+    },
+    {
+        "name": "TempWaterMinDay",
+        "obisCode": "8.1.3.4.0.130",
+        "obisCodeID": 226,
+        "registerID": 96
+    },
+    {
+        "name": "TempWaterMinDay",
+        "obisCode": "9.1.3.4.0.130",
+        "obisCodeID": 227,
+        "registerID": 96
+    },
+    {
+        "name": "TempWaterAvgDay",
+        "obisCode": "8.1.3.1.0.130",
+        "obisCodeID": 228,
+        "registerID": 97
+    },
+    {
+        "name": "TempWaterAvgDay",
+        "obisCode": "9.1.3.1.0.130",
+        "obisCodeID": 229,
+        "registerID": 97
+    },
+    {
+        "name": "TempWaterMaxDay",
+        "obisCode": "8.1.3.5.0.130",
+        "obisCodeID": 230,
+        "registerID": 98
+    },
+    {
+        "name": "TempWaterMaxDay",
+        "obisCode": "9.1.3.5.0.130",
+        "obisCodeID": 231,
+        "registerID": 98
+    },
+    {
+        "name": "AmbientRelativeHumidity",
+        "obisCode": "0.0.96.9.2.255",
+        "obisCodeID": 232,
+        "registerID": 99
+    },
+    {
+        "name": "TempAmbientInstant",
+        "obisCode": "0.0.96.9.0.255",
+        "obisCodeID": 233,
+        "registerID": 100
+    },
+    {
+        "name": "Temperature4",
+        "obisCode": "6.1.129.0.0.255",
+        "obisCodeID": 240,
+        "registerID": 101
+    },
+    {
+        "name": "Temperature4",
+        "obisCode": "5.1.129.0.0.255",
+        "obisCodeID": 274,
+        "registerID": 101
+    },
+    {
+        "name": "InputA2Logged",
+        "obisCode": "6.1.168.1.1.255",
+        "obisCodeID": 241,
+        "registerID": 102
+    },
+    {
+        "name": "InputA2Logged",
+        "obisCode": "5.1.168.1.1.255",
+        "obisCodeID": 261,
+        "registerID": 102
+    },
+    {
+        "name": "InputA2Logged",
+        "obisCode": "8.1.168.1.1.255",
+        "obisCodeID": 262,
+        "registerID": 102
+    },
+    {
+        "name": "InputA2Logged",
+        "obisCode": "9.1.168.1.1.255",
+        "obisCodeID": 263,
+        "registerID": 102
+    },
+    {
+        "name": "InputB2Logged",
+        "obisCode": "5.1.169.1.1.255",
+        "obisCodeID": 264,
+        "registerID": 103
+    },
+    {
+        "name": "InputB2Logged",
+        "obisCode": "5.1.169.1.2.255",
+        "obisCodeID": 265,
+        "registerID": 103
+    },
+    {
+        "name": "InputB2Logged",
+        "obisCode": "8.1.169.1.1.255",
+        "obisCodeID": 266,
+        "registerID": 103
+    },
+    {
+        "name": "InputB2Logged",
+        "obisCode": "8.1.169.1.2.255",
+        "obisCodeID": 267,
+        "registerID": 103
+    },
+    {
+        "name": "InputB2Logged",
+        "obisCode": "9.1.169.1.1.255",
+        "obisCodeID": 268,
+        "registerID": 103
+    },
+    {
+        "name": "InputB2Logged",
+        "obisCode": "9.1.169.1.2.255",
+        "obisCodeID": 269,
+        "registerID": 103
+    },
+    {
+        "name": "InputB2Logged",
+        "obisCode": "6.1.169.1.1.255",
+        "obisCodeID": 242,
+        "registerID": 103
+    },
+    {
+        "name": "InputB2Logged",
+        "obisCode": "6.1.169.1.2.255",
+        "obisCodeID": 243,
+        "registerID": 103
+    },
+    {
+        "name": "Volume2Logged",
+        "obisCode": "6.1.6.1.0.255",
+        "obisCodeID": 244,
+        "registerID": 104
+    },
+    {
+        "name": "Volume2Logged",
+        "obisCode": "8.2.1.1.0.255",
+        "obisCodeID": 488,
+        "registerID": 104
+    },
+    {
+        "name": "Volume2Logged",
+        "obisCode": "9.2.1.1.0.255",
+        "obisCodeID": 489,
+        "registerID": 104
+    },
+    {
+        "name": "Energy6Logged",
+        "obisCode": "6.1.139.1.0.255",
+        "obisCodeID": 245,
+        "registerID": 105
+    },
+    {
+        "name": "Mass1Logged",
+        "obisCode": "6.1.5.1.0.255",
+        "obisCodeID": 246,
+        "registerID": 106
+    },
+    {
+        "name": "Mass1Logged",
+        "obisCode": "5.1.5.1.0.255",
+        "obisCodeID": 270,
+        "registerID": 106
+    },
+    {
+        "name": "Mass2Logged",
+        "obisCode": "5.1.7.1.0.255",
+        "obisCodeID": 271,
+        "registerID": 107
+    },
+    {
+        "name": "Mass2Logged",
+        "obisCode": "6.1.7.1.0.255",
+        "obisCodeID": 247,
+        "registerID": 107
+    },
+    {
+        "name": "Flow2",
+        "obisCode": "6.1.135.0.0.255",
+        "obisCodeID": 248,
+        "registerID": 108
+    },
+    {
+        "name": "Flow2",
+        "obisCode": "5.1.135.0.0.255",
+        "obisCodeID": 249,
+        "registerID": 108
+    },
+    {
+        "name": "Flow2",
+        "obisCode": "8.1.135.0.0.255",
+        "obisCodeID": 250,
+        "registerID": 108
+    },
+    {
+        "name": "Flow2",
+        "obisCode": "9.1.135.0.0.255",
+        "obisCodeID": 251,
+        "registerID": 108
+    },
+    {
+        "name": "MinFlow1Logged",
+        "obisCode": "8.1.2.4.0.255",
+        "obisCodeID": 275,
+        "registerID": 109
+    },
+    {
+        "name": "MinFlow1Logged",
+        "obisCode": "9.1.2.4.0.255",
+        "obisCodeID": 276,
+        "registerID": 109
+    },
+    {
+        "name": "MaxMediaTempLogged",
+        "obisCode": "8.1.3.5.0.255",
+        "obisCodeID": 277,
+        "registerID": 110
+    },
+    {
+        "name": "MaxMediaTempLogged",
+        "obisCode": "9.1.3.5.0.255",
+        "obisCodeID": 278,
+        "registerID": 110
+    },
+    {
+        "name": "ValveStatus",
+        "obisCode": "15.1.96.10.1.255",
+        "obisCodeID": 279,
+        "registerID": 111
+    },
+    {
+        "name": "AnalogueInput1",
+        "obisCode": "5.1.174.0.0.255",
+        "obisCodeID": 280,
+        "registerID": 112
+    },
+    {
+        "name": "AnalogueInput1",
+        "obisCode": "6.1.174.0.0.255",
+        "obisCodeID": 281,
+        "registerID": 112
+    },
+    {
+        "name": "AnalogueInput1",
+        "obisCode": "8.1.174.0.0.255",
+        "obisCodeID": 282,
+        "registerID": 112
+    },
+    {
+        "name": "AnalogueInput1",
+        "obisCode": "9.1.174.0.0.255",
+        "obisCodeID": 283,
+        "registerID": 112
+    },
+    {
+        "name": "AnalogueInput2",
+        "obisCode": "5.1.137.0.0.255",
+        "obisCodeID": 284,
+        "registerID": 113
+    },
+    {
+        "name": "AnalogueInput2",
+        "obisCode": "6.1.137.0.0.255",
+        "obisCodeID": 285,
+        "registerID": 113
+    },
+    {
+        "name": "AnalogueInput2",
+        "obisCode": "8.1.137.0.0.255",
+        "obisCodeID": 286,
+        "registerID": 113
+    },
+    {
+        "name": "AnalogueInput2",
+        "obisCode": "9.1.137.0.0.255",
+        "obisCodeID": 287,
+        "registerID": 113
+    },
+    {
+        "name": "MaxPower1Month",
+        "obisCode": "5.1.8.5.1.255",
+        "obisCodeID": 288,
+        "registerID": 114
+    },
+    {
+        "name": "MaxPower1Month",
+        "obisCode": "6.1.8.5.1.255",
+        "obisCodeID": 289,
+        "registerID": 114
+    },
+    {
+        "name": "PeakPower1Month",
+        "obisCode": "5.1.136.0.0.255",
+        "obisCodeID": 290,
+        "registerID": 115
+    },
+    {
+        "name": "PeakPower1Month",
+        "obisCode": "6.1.136.0.0.255",
+        "obisCodeID": 291,
+        "registerID": 115
+    },
+    {
+        "name": "AvrTemp1Month",
+        "obisCode": "5.1.10.11.1.255",
+        "obisCodeID": 292,
+        "registerID": 116
+    },
+    {
+        "name": "AvrTemp1Month",
+        "obisCode": "6.1.10.11.1.255",
+        "obisCodeID": 293,
+        "registerID": 116
+    },
+    {
+        "name": "AvrTemp1Month",
+        "obisCode": "8.1.3.1.129.255",
+        "obisCodeID": 294,
+        "registerID": 116
+    },
+    {
+        "name": "AvrTemp1Month",
+        "obisCode": "9.1.3.1.129.255",
+        "obisCodeID": 295,
+        "registerID": 116
+    },
+    {
+        "name": "AvrTemp2Month",
+        "obisCode": "5.1.11.11.1.255",
+        "obisCodeID": 296,
+        "registerID": 117
+    },
+    {
+        "name": "AvrTemp2Month",
+        "obisCode": "6.1.11.11.1.255",
+        "obisCodeID": 297,
+        "registerID": 117
+    },
+    {
+        "name": "AvrTemp1Year",
+        "obisCode": "5.1.10.11.2.255",
+        "obisCodeID": 298,
+        "registerID": 118
+    },
+    {
+        "name": "AvrTemp1Year",
+        "obisCode": "6.1.10.11.2.255",
+        "obisCodeID": 299,
+        "registerID": 118
+    },
+    {
+        "name": "AvrTemp1Year",
+        "obisCode": "8.1.3.1.128.255",
+        "obisCodeID": 300,
+        "registerID": 118
+    },
+    {
+        "name": "AvrTemp1Year",
+        "obisCode": "9.1.3.1.128.255",
+        "obisCodeID": 301,
+        "registerID": 118
+    },
+    {
+        "name": "AvrTemp2Year",
+        "obisCode": "5.1.11.11.2.255",
+        "obisCodeID": 302,
+        "registerID": 119
+    },
+    {
+        "name": "AvrTemp2Year",
+        "obisCode": "6.1.11.11.2.255",
+        "obisCodeID": 303,
+        "registerID": 119
+    },
+    {
+        "name": "MaxFlow1Year",
+        "obisCode": "5.1.9.5.2.255",
+        "obisCodeID": 304,
+        "registerID": 120
+    },
+    {
+        "name": "MaxFlow1Year",
+        "obisCode": "6.1.9.5.2.255",
+        "obisCodeID": 305,
+        "registerID": 120
+    },
+    {
+        "name": "MaxFlow1Year",
+        "obisCode": "8.1.2.5.0.255",
+        "obisCodeID": 306,
+        "registerID": 120
+    },
+    {
+        "name": "MaxFlow1Year",
+        "obisCode": "9.1.2.5.0.255",
+        "obisCodeID": 307,
+        "registerID": 120
+    },
+    {
+        "name": "MaxPower1Year",
+        "obisCode": "5.1.8.5.2.255",
+        "obisCodeID": 308,
+        "registerID": 121
+    },
+    {
+        "name": "MaxPower1Year",
+        "obisCode": "6.1.8.5.2.255",
+        "obisCodeID": 309,
+        "registerID": 121
+    },
+    {
+        "name": "LoggedPeakPowerOrFlow",
+        "obisCode": "5.1.128.3.0.255",
+        "obisCodeID": 310,
+        "registerID": 122
+    },
+    {
+        "name": "LoggedPeakPowerOrFlow",
+        "obisCode": "6.1.128.3.0.255",
+        "obisCodeID": 311,
+        "registerID": 122
+    },
+    {
+        "name": "LoggedPeakFlow",
+        "obisCode": "5.1.129.3.0.255",
+        "obisCodeID": 312,
+        "registerID": 123
+    },
+    {
+        "name": "LoggedPeakFlow",
+        "obisCode": "6.1.129.3.0.255",
+        "obisCodeID": 313,
+        "registerID": 123
+    },
+    {
+        "name": "LoggedPeakFlow",
+        "obisCode": "8.1.129.3.0.255",
+        "obisCodeID": 314,
+        "registerID": 123
+    },
+    {
+        "name": "LoggedPeakFlow",
+        "obisCode": "9.1.129.3.0.255",
+        "obisCodeID": 315,
+        "registerID": 123
+    },
+    {
+        "name": "TariffLimit2",
+        "obisCode": "5.1.0.5.2.255",
+        "obisCodeID": 318,
+        "registerID": 124
+    },
+    {
+        "name": "TariffLimit2",
+        "obisCode": "6.1.0.5.2.255",
+        "obisCodeID": 319,
+        "registerID": 124
+    },
+    {
+        "name": "TariffLimit3",
+        "obisCode": "5.1.0.5.3.255",
+        "obisCodeID": 320,
+        "registerID": 125
+    },
+    {
+        "name": "TariffLimit3",
+        "obisCode": "6.1.0.5.3.255",
+        "obisCodeID": 321,
+        "registerID": 125
+    },
+    {
+        "name": "LoggedVolume1",
+        "obisCode": "5.1.4.3.0.255",
+        "obisCodeID": 322,
+        "registerID": 126
+    },
+    {
+        "name": "LoggedVolume1",
+        "obisCode": "6.1.4.3.0.255",
+        "obisCodeID": 323,
+        "registerID": 126
+    },
+    {
+        "name": "LoggedVolume1",
+        "obisCode": "8.1.1.3.0.255",
+        "obisCodeID": 324,
+        "registerID": 126
+    },
+    {
+        "name": "LoggedVolume1",
+        "obisCode": "9.1.1.3.0.255",
+        "obisCodeID": 325,
+        "registerID": 126
+    },
+    {
+        "name": "LoggedInputA",
+        "obisCode": "5.1.130.3.0.255",
+        "obisCodeID": 326,
+        "registerID": 127
+    },
+    {
+        "name": "LoggedInputA",
+        "obisCode": "6.1.130.3.0.255",
+        "obisCodeID": 327,
+        "registerID": 127
+    },
+    {
+        "name": "LoggedInputA",
+        "obisCode": "8.1.130.3.0.255",
+        "obisCodeID": 328,
+        "registerID": 127
+    },
+    {
+        "name": "LoggedInputA",
+        "obisCode": "9.1.130.3.0.255",
+        "obisCodeID": 329,
+        "registerID": 127
+    },
+    {
+        "name": "LoggedInputA",
+        "obisCode": "5.1.153.3.0.255",
+        "obisCodeID": 330,
+        "registerID": 127
+    },
+    {
+        "name": "LoggedInputA",
+        "obisCode": "6.1.153.3.0.255",
+        "obisCodeID": 331,
+        "registerID": 127
+    },
+    {
+        "name": "LoggedInputA",
+        "obisCode": "8.1.153.3.0.255",
+        "obisCodeID": 332,
+        "registerID": 127
+    },
+    {
+        "name": "LoggedInputA",
+        "obisCode": "9.1.153.3.0.255",
+        "obisCodeID": 333,
+        "registerID": 127
+    },
+    {
+        "name": "LoggedInputB",
+        "obisCode": "5.1.131.3.0.255",
+        "obisCodeID": 334,
+        "registerID": 128
+    },
+    {
+        "name": "LoggedInputB",
+        "obisCode": "6.1.131.3.0.255",
+        "obisCodeID": 335,
+        "registerID": 128
+    },
+    {
+        "name": "LoggedInputB",
+        "obisCode": "8.1.131.3.0.255",
+        "obisCodeID": 336,
+        "registerID": 128
+    },
+    {
+        "name": "LoggedInputB",
+        "obisCode": "9.1.131.3.0.255",
+        "obisCodeID": 337,
+        "registerID": 128
+    },
+    {
+        "name": "LoggedInputB",
+        "obisCode": "5.1.154.3.0.255",
+        "obisCodeID": 338,
+        "registerID": 128
+    },
+    {
+        "name": "LoggedInputB",
+        "obisCode": "6.1.154.3.0.255",
+        "obisCodeID": 339,
+        "registerID": 128
+    },
+    {
+        "name": "LoggedInputB",
+        "obisCode": "8.1.154.3.0.255",
+        "obisCodeID": 340,
+        "registerID": 128
+    },
+    {
+        "name": "LoggedInputB",
+        "obisCode": "9.1.154.3.0.255",
+        "obisCodeID": 341,
+        "registerID": 128
+    },
+    {
+        "name": "VolumenConsumptionLast24H",
+        "obisCode": "8.1.1.1.100.255",
+        "obisCodeID": 342,
+        "registerID": 129
+    },
+    {
+        "name": "VolumenConsumptionLast24H",
+        "obisCode": "9.1.1.1.100.255",
+        "obisCodeID": 343,
+        "registerID": 129
+    },
+    {
+        "name": "BatteryDaysLeft",
+        "obisCode": "0.1.96.6.6.255",
+        "obisCodeID": 347,
+        "registerID": 133
+    },
+    {
+        "name": "AcousticNoise",
+        "obisCode": "8.1.172.0.128.255",
+        "obisCodeID": 348,
+        "registerID": 134
+    },
+    {
+        "name": "AcousticNoise",
+        "obisCode": "8.1.172.0.0.255",
+        "obisCodeID": 460,
+        "registerID": 134
+    },
+    {
+        "name": "AcousticNoise",
+        "obisCode": "9.1.172.0.0.255",
+        "obisCodeID": 483,
+        "registerID": 134
+    },
+    {
+        "name": "AcousticNoise",
+        "obisCode": "9.1.172.0.128.255",
+        "obisCodeID": 484,
+        "registerID": 134
+    },
+    {
+        "name": "MaxFlow1Month",
+        "obisCode": "5.1.9.5.1.255",
+        "obisCodeID": 355,
+        "registerID": 135
+    },
+    {
+        "name": "MaxFlow1Month",
+        "obisCode": "6.1.9.5.1.255",
+        "obisCodeID": 356,
+        "registerID": 135
+    },
+    {
+        "name": "MaxFlow1Month",
+        "obisCode": "8.1.2.5.1.255",
+        "obisCodeID": 357,
+        "registerID": 135
+    },
+    {
+        "name": "MaxFlow1Month",
+        "obisCode": "9.1.2.5.1.255",
+        "obisCodeID": 358,
+        "registerID": 135
+    },
+    {
+        "name": "TempWaterMinMonth",
+        "obisCode": "8.1.3.4.0.131",
+        "obisCodeID": 359,
+        "registerID": 136
+    },
+    {
+        "name": "TempWaterMinMonth",
+        "obisCode": "9.1.3.4.0.131",
+        "obisCodeID": 360,
+        "registerID": 136
+    },
+    {
+        "name": "TempWaterAvgMonth",
+        "obisCode": "8.1.3.1.0.131",
+        "obisCodeID": 361,
+        "registerID": 137
+    },
+    {
+        "name": "TempWaterAvgMonth",
+        "obisCode": "9.1.3.1.0.131",
+        "obisCodeID": 362,
+        "registerID": 137
+    },
+    {
+        "name": "TempAmbientMinMonth",
+        "obisCode": "8.1.128.4.0.131",
+        "obisCodeID": 363,
+        "registerID": 138
+    },
+    {
+        "name": "TempAmbientMinMonth",
+        "obisCode": "9.1.128.4.0.131",
+        "obisCodeID": 364,
+        "registerID": 138
+    },
+    {
+        "name": "TempAmbientMaxMonth",
+        "obisCode": "8.1.128.5.0.131",
+        "obisCodeID": 365,
+        "registerID": 139
+    },
+    {
+        "name": "TempAmbientMaxMonth",
+        "obisCode": "9.1.128.5.0.131",
+        "obisCodeID": 366,
+        "registerID": 139
+    },
+    {
+        "name": "Energy12",
+        "obisCode": "5.12.1.0.0.255",
+        "obisCodeID": 368,
+        "registerID": 141
+    },
+    {
+        "name": "Energy12Logged",
+        "obisCode": "5.12.1.1.0.255",
+        "obisCodeID": 369,
+        "registerID": 142
+    },
+    {
+        "name": "Energy13",
+        "obisCode": "6.13.1.0.0.255",
+        "obisCodeID": 370,
+        "registerID": 143
+    },
+    {
+        "name": "Energy13Logged",
+        "obisCode": "6.13.1.1.0.255",
+        "obisCodeID": 371,
+        "registerID": 144
+    },
+    {
+        "name": "Energy14",
+        "obisCode": "6.14.1.0.0.255",
+        "obisCodeID": 372,
+        "registerID": 145
+    },
+    {
+        "name": "Energy14Logged",
+        "obisCode": "6.14.1.1.0.255",
+        "obisCodeID": 373,
+        "registerID": 146
+    },
+    {
+        "name": "Energy15",
+        "obisCode": "5.15.1.0.0.255",
+        "obisCodeID": 374,
+        "registerID": 147
+    },
+    {
+        "name": "Energy15Logged",
+        "obisCode": "5.15.1.1.0.255",
+        "obisCodeID": 375,
+        "registerID": 148
+    },
+    {
+        "name": "Energy16",
+        "obisCode": "5.16.1.0.0.255",
+        "obisCodeID": 376,
+        "registerID": 149
+    },
+    {
+        "name": "Energy16Logged",
+        "obisCode": "5.16.1.1.0.255",
+        "obisCodeID": 377,
+        "registerID": 150
+    },
+    {
+        "name": "Mass3",
+        "obisCode": "6.1.170.0.0.255",
+        "obisCodeID": 378,
+        "registerID": 151
+    },
+    {
+        "name": "Mass3",
+        "obisCode": "5.1.170.0.0.255",
+        "obisCodeID": 379,
+        "registerID": 151
+    },
+    {
+        "name": "Mass3Logged",
+        "obisCode": "6.1.170.1.0.255",
+        "obisCodeID": 380,
+        "registerID": 152
+    },
+    {
+        "name": "Mass3Logged",
+        "obisCode": "5.1.170.1.0.255",
+        "obisCodeID": 381,
+        "registerID": 152
+    },
+    {
+        "name": "Mass4",
+        "obisCode": "6.1.171.0.0.255",
+        "obisCodeID": 382,
+        "registerID": 153
+    },
+    {
+        "name": "Mass4",
+        "obisCode": "5.1.171.0.0.255",
+        "obisCodeID": 383,
+        "registerID": 153
+    },
+    {
+        "name": "Mass4Logged",
+        "obisCode": "6.1.171.1.0.255",
+        "obisCodeID": 384,
+        "registerID": 154
+    },
+    {
+        "name": "Mass4Logged",
+        "obisCode": "5.1.171.1.0.255",
+        "obisCodeID": 385,
+        "registerID": 154
+    },
+    {
+        "name": "Temp1MaxDateTime",
+        "obisCode": "6.1.10.151.199.255",
+        "obisCodeID": 414,
+        "registerID": 155
+    },
+    {
+        "name": "Temp1MaxDateTime",
+        "obisCode": "5.1.10.151.199.255",
+        "obisCodeID": 415,
+        "registerID": 155
+    },
+    {
+        "name": "Temp1MaxDateTimeLogged",
+        "obisCode": "6.1.10.152.199.255",
+        "obisCodeID": 410,
+        "registerID": 156
+    },
+    {
+        "name": "Temp1MaxDateTimeLogged",
+        "obisCode": "5.1.10.152.199.255",
+        "obisCodeID": 411,
+        "registerID": 156
+    },
+    {
+        "name": "Temp1MinDateTime",
+        "obisCode": "6.1.10.141.199.255",
+        "obisCodeID": 412,
+        "registerID": 157
+    },
+    {
+        "name": "Temp1MinDateTime",
+        "obisCode": "5.1.10.141.199.255",
+        "obisCodeID": 413,
+        "registerID": 157
+    },
+    {
+        "name": "Temp1MinDateTimeLogged",
+        "obisCode": "6.1.10.142.199.255",
+        "obisCodeID": 416,
+        "registerID": 158
+    },
+    {
+        "name": "Temp1MinDateTimeLogged",
+        "obisCode": "5.1.10.142.199.255",
+        "obisCodeID": 417,
+        "registerID": 158
+    },
+    {
+        "name": "Temp2MaxDateTime",
+        "obisCode": "6.1.11.151.199.255",
+        "obisCodeID": 446,
+        "registerID": 159
+    },
+    {
+        "name": "Temp2MaxDateTime",
+        "obisCode": "5.1.11.151.199.255",
+        "obisCodeID": 447,
+        "registerID": 159
+    },
+    {
+        "name": "Temp2MaxDateTimeLogged",
+        "obisCode": "6.1.11.152.199.255",
+        "obisCodeID": 442,
+        "registerID": 160
+    },
+    {
+        "name": "Temp2MaxDateTimeLogged",
+        "obisCode": "5.1.11.152.199.255",
+        "obisCodeID": 443,
+        "registerID": 160
+    },
+    {
+        "name": "Temp2MinDateTime",
+        "obisCode": "6.1.11.141.199.255",
+        "obisCodeID": 448,
+        "registerID": 161
+    },
+    {
+        "name": "Temp2MinDateTime",
+        "obisCode": "5.1.11.141.199.255",
+        "obisCodeID": 449,
+        "registerID": 161
+    },
+    {
+        "name": "Temp2MinDateTimeLogged",
+        "obisCode": "6.1.11.142.199.255",
+        "obisCodeID": 444,
+        "registerID": 162
+    },
+    {
+        "name": "Temp2MinDateTimeLogged",
+        "obisCode": "5.1.11.142.199.255",
+        "obisCodeID": 445,
+        "registerID": 162
+    },
+    {
+        "name": "Temp1Max",
+        "obisCode": "6.1.10.5.199.255",
+        "obisCodeID": 406,
+        "registerID": 163
+    },
+    {
+        "name": "Temp1Max",
+        "obisCode": "5.1.10.5.199.255",
+        "obisCodeID": 407,
+        "registerID": 163
+    },
+    {
+        "name": "Temp1MaxLogged",
+        "obisCode": "6.1.10.150.199.255",
+        "obisCodeID": 402,
+        "registerID": 164
+    },
+    {
+        "name": "Temp1MaxLogged",
+        "obisCode": "5.1.10.150.199.255",
+        "obisCodeID": 403,
+        "registerID": 164
+    },
+    {
+        "name": "Temp1Min",
+        "obisCode": "6.1.10.4.199.255",
+        "obisCodeID": 408,
+        "registerID": 165
+    },
+    {
+        "name": "Temp1Min",
+        "obisCode": "5.1.10.4.199.255",
+        "obisCodeID": 409,
+        "registerID": 165
+    },
+    {
+        "name": "Temp1MinLogged",
+        "obisCode": "6.1.10.140.199.255",
+        "obisCodeID": 404,
+        "registerID": 166
+    },
+    {
+        "name": "Temp1MinLogged",
+        "obisCode": "5.1.10.140.199.255",
+        "obisCodeID": 405,
+        "registerID": 166
+    },
+    {
+        "name": "Temp2Max",
+        "obisCode": "6.1.11.5.199.255",
+        "obisCodeID": 438,
+        "registerID": 167
+    },
+    {
+        "name": "Temp2Max",
+        "obisCode": "5.1.11.5.199.255",
+        "obisCodeID": 439,
+        "registerID": 167
+    },
+    {
+        "name": "Temp2MaxLogged",
+        "obisCode": "6.1.11.150.199.255",
+        "obisCodeID": 434,
+        "registerID": 168
+    },
+    {
+        "name": "Temp2MaxLogged",
+        "obisCode": "5.1.11.150.199.255",
+        "obisCodeID": 435,
+        "registerID": 168
+    },
+    {
+        "name": "Temp2Min",
+        "obisCode": "6.1.11.4.199.255",
+        "obisCodeID": 440,
+        "registerID": 169
+    },
+    {
+        "name": "Temp2Min",
+        "obisCode": "5.1.11.4.199.255",
+        "obisCodeID": 441,
+        "registerID": 169
+    },
+    {
+        "name": "Temp2MinLogged",
+        "obisCode": "6.1.11.140.199.255",
+        "obisCodeID": 436,
+        "registerID": 170
+    },
+    {
+        "name": "Temp2MinLogged",
+        "obisCode": "5.1.11.140.199.255",
+        "obisCodeID": 437,
+        "registerID": 170
+    },
+    {
+        "name": "Power2",
+        "obisCode": "6.2.8.0.0.255",
+        "obisCodeID": 450,
+        "registerID": 171
+    },
+    {
+        "name": "Power2",
+        "obisCode": "5.2.8.0.0.255",
+        "obisCodeID": 451,
+        "registerID": 171
+    },
+    {
+        "name": "Energy1ExtraDigit",
+        "obisCode": "6.1.1.0.0.254",
+        "obisCodeID": 452,
+        "registerID": 172
+    },
+    {
+        "name": "Energy1ExtraDigitLogged",
+        "obisCode": "6.1.1.1.0.254",
+        "obisCodeID": 453,
+        "registerID": 173
+    },
+    {
+        "name": "Energy3ExtraDigit",
+        "obisCode": "5.1.1.0.0.254",
+        "obisCodeID": 454,
+        "registerID": 174
+    },
+    {
+        "name": "Energy3ExtraDigitLogged",
+        "obisCode": "5.1.1.1.0.254",
+        "obisCodeID": 455,
+        "registerID": 175
+    },
+    {
+        "name": "Volume1ExtraDigit",
+        "obisCode": "6.1.4.0.0.254",
+        "obisCodeID": 456,
+        "registerID": 176
+    },
+    {
+        "name": "Volume1ExtraDigit",
+        "obisCode": "5.1.4.0.0.254",
+        "obisCodeID": 457,
+        "registerID": 176
+    },
+    {
+        "name": "Volume1ExtraDigitLogged",
+        "obisCode": "6.1.4.1.0.254",
+        "obisCodeID": 458,
+        "registerID": 177
+    },
+    {
+        "name": "Volume1ExtraDigitLogged",
+        "obisCode": "5.1.4.1.0.254",
+        "obisCodeID": 459,
+        "registerID": 177
+    },
+    {
+        "name": "AcousticNoiseUnfiltered",
+        "obisCode": "9.1.172.0.132.255",
+        "obisCodeID": 485,
+        "registerID": 178
+    },
+    {
+        "name": "AcousticNoiseUnfiltered",
+        "obisCode": "8.1.172.0.132.255",
+        "obisCodeID": 461,
+        "registerID": 178
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "0.1.97.97.131.255",
+        "obisCodeID": 462,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "0.1.97.97.132.128",
+        "obisCodeID": 463,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "0.1.97.97.133.128",
+        "obisCodeID": 464,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "5.1.97.97.130.128",
+        "obisCodeID": 465,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "6.1.97.97.130.128",
+        "obisCodeID": 466,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "8.1.97.97.130.128",
+        "obisCodeID": 467,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "9.1.97.97.130.128",
+        "obisCodeID": 468,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "15.1.97.97.130.128",
+        "obisCodeID": 469,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "5.1.161.0.130.255",
+        "obisCodeID": 470,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "6.1.161.0.130.255",
+        "obisCodeID": 471,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "8.1.161.0.130.255",
+        "obisCodeID": 472,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "9.1.161.0.130.255",
+        "obisCodeID": 473,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "8.1.163.0.130.255",
+        "obisCodeID": 474,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "9.1.163.0.130.255",
+        "obisCodeID": 475,
+        "registerID": 179
+    },
+    {
+        "name": "DailyInfoCodeSummary",
+        "obisCode": "15.1.97.97.131.128",
+        "obisCodeID": 478,
+        "registerID": 179
+    },
+    {
+        "name": "MaxPower1DateLogged",
+        "obisCode": "5.1.8.3.11.255",
+        "obisCodeID": 479,
+        "registerID": 180
+    },
+    {
+        "name": "MaxPower1DateLogged",
+        "obisCode": "6.1.8.3.11.255",
+        "obisCodeID": 480,
+        "registerID": 180
+    },
+    {
+        "name": "MaxFlow1DateLogged",
+        "obisCode": "5.1.9.3.11.255",
+        "obisCodeID": 481,
+        "registerID": 181
+    },
+    {
+        "name": "MaxFlow1DateLogged",
+        "obisCode": "6.1.9.3.11.255",
+        "obisCodeID": 482,
+        "registerID": 181
+    },
+    {
+        "name": "AcousticNoiseLogged",
+        "obisCode": "8.1.172.1.0.255",
+        "obisCodeID": 490,
+        "registerID": 182
+    },
+    {
+        "name": "AcousticNoiseLogged",
+        "obisCode": "9.1.172.1.0.255",
+        "obisCodeID": 491,
+        "registerID": 182
+    },
+    {
+        "name": "HcaUnratedIntegral",
+        "obisCode": "4.0.1.0.0.255",
+        "obisCodeID": 494,
+        "registerID": 183
+    },
+    {
+        "name": "HcaUnratedIntegralLogged",
+        "obisCode": "4.0.1.2.0.255",
+        "obisCodeID": 495,
+        "registerID": 184
+    },
+    {
+        "name": "ErrorStatus",
+        "obisCode": "0.0.97.97.0.255",
+        "obisCodeID": 497,
+        "registerID": 185
+    }
+]
