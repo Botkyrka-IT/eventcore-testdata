@@ -1,7 +1,7 @@
 [
     {
         "id": 3108,
-        "address": "STORSKIFTESVÄGEN 112",
+        "address": "STORSKIFTESVÄGEN 242",
         "postalCode": "14560",
         "city": "NORSBORG",
         "format": "GPS",
@@ -21,12 +21,12 @@
     },
     {
         "id": 3110,
-        "address": "TULLINGEBERGSVÄGEN 3 -11",
+        "address": "TULLINGEBERGSVÄGEN 203 - 211",
         "postalCode": "14645",
         "city": "TULLINGE",
         "format": "GPS",
-        "longitude": 17.904316,
-        "latitude": 59.210713,
+        "longitude": 17.89688,
+        "latitude": 59.21109,
         "href": "/installations/3110",
         "meterHistory": [
             {
@@ -49,12 +49,12 @@
     },
     {
         "id": 3112,
-        "address": "HÅLVÄGEN 26",
+        "address": "HÅLVÄGEN 320",
         "postalCode": "14753",
         "city": "TUMBA",
         "format": "GPS",
-        "longitude": 17.836756,
-        "latitude": 59.193317,
+        "longitude": 17.833592,
+        "latitude": 59.192263,
         "href": "/installations/3112",
         "meterHistory": [
             {
@@ -77,12 +77,12 @@
     },
     {
         "id": 3114,
-        "address": "HÅLVÄGEN 28 -42",
+        "address": "HÅLVÄGEN 208 -242",
         "postalCode": "14753",
         "city": "TUMBA",
         "format": "GPS",
-        "longitude": 17.831235,
-        "latitude": 59.193760,
+        "longitude": 17.832734,
+        "latitude": 59.192143,
         "href": "/installations/3114",
         "meterHistory": [
             {
