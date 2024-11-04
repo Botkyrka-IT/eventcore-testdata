@@ -1,9 +1,9 @@
 [
     {
         "id": 3108,
-        "address": "STORSKIFTESVÄGEN 242",
-        "postalCode": "14560",
-        "city": "NORSBORG",
+        "address": "HANS STAHLES VAG 997",
+        "postalCode": "14799",
+        "city": "TUMBA",
         "format": "GPS",
         "longitude": 17.863189,
         "latitude": 59.236187,
@@ -21,9 +21,9 @@
     },
     {
         "id": 3110,
-        "address": "TULLINGEBERGSVÄGEN 203 - 211",
-        "postalCode": "14645",
-        "city": "TULLINGE",
+        "address": "HANS STAHLES VAG 994-996",
+        "postalCode": "14799",
+        "city": "TUMBA",
         "format": "GPS",
         "longitude": 17.89688,
         "latitude": 59.21109,
@@ -49,8 +49,8 @@
     },
     {
         "id": 3112,
-        "address": "HÅLVÄGEN 320",
-        "postalCode": "14753",
+        "address": "HANS STAHLES VAG 998",
+        "postalCode": "14799",
         "city": "TUMBA",
         "format": "GPS",
         "longitude": 17.833592,
@@ -77,8 +77,8 @@
     },
     {
         "id": 3114,
-        "address": "HÅLVÄGEN 208 -242",
-        "postalCode": "14753",
+        "address": "HANS STAHLES VAG 999A-999C",
+        "postalCode": "14799",
         "city": "TUMBA",
         "format": "GPS",
         "longitude": 17.832734,
