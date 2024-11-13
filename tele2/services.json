@@ -1,0 +1,81 @@
+[
+    {
+        "itemName": "Tele2 Växel Allround package",
+        "validFromDate": "2021-05-28T12:22:49.45",
+        "id": 16324767,
+        "status": "In service"
+    },
+    {
+        "itemName": "Linjestatus API adress",
+        "costCenter": "14203031",
+        "validFromDate": "2021-05-28T12:24:32.513",
+        "id": 16324816,
+        "status": "In service"
+    },
+    {
+        "itemName": "Tele2 Växel Teknisk användare",
+        "PBXExtensionNumber": "8000",
+        "costCenter": "14000000",
+        "validFromDate": "2021-05-28T12:27:01.393",
+        "id": 16324854,
+        "status": "In service",
+        "serviceRecipient": {
+            "name": "GDPR Clean data"
+        }
+    },
+    {
+        "ICCID": "89462048001021787369",
+        "itemName": "Mobil abonnemang inkl Växel",
+        "A100010": "5 GB",
+        "MSISDN": "46701832631",
+        "costCenter": "22303030",
+        "validFromDate": "2021-09-22T16:17:10.023",
+        "IMEI": "351309643673817",
+        "model": "Apple iPhone 13 (A2633)",
+        "id": 17748146,
+        "blockedForPremiumRateSMS": "Nej",
+        "status": "In service",
+        "serviceRecipient": {
+            "name": "GDPR Clean data",
+            "id": "bkhatser01",
+            "eMail": "GDPR Clean data"
+        }
+    },
+    {
+        "ICCID": "89462048001021786064",
+        "itemName": "Mobil abonnemang inkl Växel",
+        "A100010": "5 GB",
+        "MSISDN": "46701832632",
+        "costCenter": "22303040",
+        "validFromDate": "2021-09-22T16:17:18.417",
+        "IMEI": "351585116710141",
+        "model": "Galaxy S10",
+        "id": 17748150,
+        "blockedForPremiumRateSMS": "Nej",
+        "status": "In service",
+        "serviceRecipient": {
+            "name": "GDPR Clean data",
+            "id": "bkelmtun01",
+            "eMail": "GDPR Clean data"
+        }
+    },
+    {
+        "ICCID": "89462048001021792179",
+        "itemName": "Mobil abonnemang inkl Växel",
+        "A100010": "5 GB",
+        "MSISDN": "46701832633",
+        "costCenter": "22303040",
+        "validFromDate": "2021-09-22T16:17:24.067",
+        "IMEI": "356204101304770",
+        "model": "Galaxy S9",
+        "id": 17748153,
+        "blockedForPremiumRateSMS": "Nej",
+        "status": "In service",
+        "serviceRecipient": {
+            "name": "GDPR Clean data",
+            "id": "bkleybar01",
+            "eMail": "GDPR Clean data"
+        }
+    }
+  
+]
