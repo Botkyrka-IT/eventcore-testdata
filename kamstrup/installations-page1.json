@@ -102,5 +102,33 @@
                 "toDateUTC": "9999-12-31T23:59:59.9999999Z"
             }
         ]
+    },
+    {
+        "id": 3115,
+        "address": "HANS STAHLES VAG 999D",
+        "postalCode": "14799",
+        "city": "TUMBA",
+        "format": "GPS",
+        "longitude": 17.832732,
+        "latitude": 59.1921433,
+        "href": "/installations/3114",
+        "meterHistory": [
+            {
+                "meter": {
+                    "id": 2436,
+                    "href": "/meters/2436"
+                },
+                "fromDateUTC": "0001-01-01T00:00:00Z",
+                "toDateUTC": "2020-05-11T09:45:48Z"
+            },
+            {
+                "meter": {
+                    "id": 2437,
+                    "href": "/meters/2437"
+                },
+                "fromDateUTC": "2020-05-11T09:45:48Z",
+                "toDateUTC": "9999-12-31T23:59:59.9999999Z"
+            }
+        ]
     }
 ]
