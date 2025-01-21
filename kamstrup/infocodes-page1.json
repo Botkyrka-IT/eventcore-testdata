@@ -9,8 +9,8 @@
             "Leak"
         ],
         "meter": {
-            "id": 9166,
-            "href": "/meters/9166",
+            "id": 2435,
+            "href": "/meters/2435",
             "serialNumber": "74586314",
             "manufacturer": "KAM"
         },
@@ -28,8 +28,8 @@
             "Leak"
         ],
         "meter": {
-            "id": 9827,
-            "href": "/meters/9827",
+            "id": 13344,
+            "href": "/meters/13344",
             "serialNumber": "68583739",
             "manufacturer": "KAM"
         },
@@ -49,8 +49,8 @@
             "Leak"
         ],
         "meter": {
-            "id": 7460,
-            "href": "/meters/7460",
+            "id": 2436,
+            "href": "/meters/2436",
             "serialNumber": "68562214",
             "manufacturer": "KAM"
         },
@@ -68,8 +68,8 @@
             "Leak"
         ],
         "meter": {
-            "id": 7460,
-            "href": "/meters/7460",
+            "id": 2436,
+            "href": "/meters/2436",
             "serialNumber": "68562214",
             "manufacturer": "KAM"
         },
@@ -88,8 +88,8 @@
             "Leak"
         ],
         "meter": {
-            "id": 13620,
-            "href": "/meters/13620",
+            "id": 13279,
+            "href": "/meters/13279",
             "serialNumber": "20955414",
             "manufacturer": "KAM"
         },
@@ -106,8 +106,8 @@
         "readTimeUtc": "2025-01-15T08:42:03+01:00",
         "value": [],
         "meter": {
-            "id": 17079,
-            "href": "/meters/17079",
+            "id": 2437,
+            "href": "/meters/2437",
             "serialNumber": "12777257",
             "manufacturer": "KAM"
         },
@@ -121,8 +121,8 @@
         "readTimeUtc": "2025-01-15T07:59:10+01:00",
         "value": [],
         "meter": {
-            "id": 3232,
-            "href": "/meters/3232",
+            "id": 2438,
+            "href": "/meters/2438",
             "serialNumber": "63916206",
             "manufacturer": "KAM"
         },
@@ -136,50 +136,12 @@
         "readTimeUtc": "2025-01-15T07:55:38+01:00",
         "value": [],
         "meter": {
-            "id": 3303,
-            "href": "/meters/3303",
+            "id": 13274,
+            "href": "/meters/13274",
             "serialNumber": "63916278",
             "manufacturer": "KAM"
         },
         "oldInfoCodeId": 2048,
         "oldValue": []
-    },
-    {
-        "infoCodeId": 47116,
-        "obisCode": "8.1.97.97.0.128",
-        "registerName": "ObisCode",
-        "readTimeUtc": "2025-01-15T07:42:36+01:00",
-        "value": [
-            "Burst",
-            "Leak"
-        ],
-        "meter": {
-            "id": 12749,
-            "href": "/meters/12749",
-            "serialNumber": "75720790",
-            "manufacturer": "KAM"
-        },
-        "oldInfoCodeId": 29708,
-        "oldValue": [
-            "Burst",
-            "Leak"
-        ]
-    },
-    {
-        "infoCodeId": 655360,
-        "obisCode": "0.1.97.97.2.128",
-        "registerName": "ObisCode",
-        "readTimeUtc": "2025-01-15T07:48:49+01:00",
-        "value": [],
-        "meter": {
-            "id": 16298,
-            "href": "/meters/16298",
-            "serialNumber": "23484664",
-            "manufacturer": "KAM"
-        },
-        "oldInfoCodeId": 655364,
-        "oldValue": [
-            "Leak"
-        ]
     }
 ]
