@@ -15,8 +15,8 @@
         "meternumber": "23616230"
     },
 {
-    "id": "2434",
-    "href": "/meters/2434",
+    "id": "47111",
+    "href": "/meters/47111",
     "serialnumber": "68533732",
     "manufacturer": "KAM",
     "metertype": "flowIQ 31xx",
@@ -26,15 +26,15 @@
     "meternumber": "68533732"
 },
 {
-    "id": "13335",
-    "href": "/meters/13335",
+    "id": "47112",
+    "href": "/meters/47112",
     "serialnumber": "20821880",
     "manufacturer": "KAM",
     "metertype": "flowIQ 31xx",
     "consumptiontype": "VolumeCold",
     "currentinstallation": {
-        "id": 3110,
-        "href": "/installations/3110"
+        "id": 4711,
+        "href": "/installations/4711"
     },
     "confignumber": "0100246123333",
     "typenumber": "03140C2U879",

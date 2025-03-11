@@ -20,29 +20,29 @@
         ]
     },
     {
-        "id": 3110,
-        "address": "HANS STAHLES VAG 994-996",
+        "id": 4711,
+        "address": "Gatuvägen 3119",
         "postalCode": "14799",
         "city": "TUMBA",
         "format": "GPS",
-        "longitude": 17.89688,
-        "latitude": 59.21109,
-        "href": "/installations/3110",
+        "longitude": 11.000,
+        "latitude": 12.000,
+        "href": "/installations/4711",
         "meterHistory": [
             {
                 "meter": {
-                    "id": 2434,
-                    "href": "/meters/2434"
+                    "id": 47111,
+                    "href": "/meters/47111"
                 },
                 "fromDateUTC": "0001-01-01T00:00:00Z",
-                "toDateUTC": "2020-09-25T06:12:54Z"
+                "toDateUTC": "2025-02-12T08:47:54.0000000Z"
             },
             {
                 "meter": {
-                    "id": 13335,
-                    "href": "/meters/13335"
+                    "id": 47112,
+                    "href": "/meters/47112"
                 },
-                "fromDateUTC": "2020-09-25T06:12:54Z",
+                "fromDateUTC": "2025-02-12T08:47:54.0000000Z",
                 "toDateUTC": "9999-12-31T23:59:59.9999999Z"
             }
         ]

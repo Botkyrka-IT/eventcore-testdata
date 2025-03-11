@@ -3,18 +3,18 @@
         "infoCodeId": 48140,
         "obisCode": "8.1.97.97.0.128",
         "registerName": "ObisCode",
-        "readTimeUtc": "2025-01-15T09:05:32+01:00",
+        "readTimeUtc": "2025-02-03T09:05:32+01:00",
         "value": [
             "Burst",
             "Leak"
         ],
         "meter": {
-            "id": 2435,
-            "href": "/meters/2435",
-            "serialNumber": "74586314",
+            "id": 47112,
+            "href": "/meters/47112",
+            "serialNumber": "20821880",
             "manufacturer": "KAM"
         },
-        "oldInfoCodeId": 48132,
+        "oldInfoCodeId": 48130,
         "oldValue": [
             "Leak"
         ]
@@ -23,14 +23,14 @@
         "infoCodeId": 48132,
         "obisCode": "8.1.97.97.0.128",
         "registerName": "ObisCode",
-        "readTimeUtc": "2025-01-15T08:52:45+01:00",
+        "readTimeUtc": "2025-02-05T08:52:45+01:00",
         "value": [
             "Leak"
         ],
         "meter": {
-            "id": 13344,
-            "href": "/meters/13344",
-            "serialNumber": "68583739",
+            "id": 47112,
+            "href": "/meters/47112",
+            "serialNumber": "20821880",
             "manufacturer": "KAM"
         },
         "oldInfoCodeId": 48140,
@@ -43,14 +43,14 @@
         "infoCodeId": 56332,
         "obisCode": "8.1.97.97.0.128",
         "registerName": "ObisCode",
-        "readTimeUtc": "2025-01-15T08:39:42+01:00",
+        "readTimeUtc": "2025-02-07T08:39:42+01:00",
         "value": [
             "Burst",
             "Leak"
         ],
         "meter": {
-            "id": 2436,
-            "href": "/meters/2436",
+            "id": 47112,
+            "href": "/meters/47112",
             "serialNumber": "68562214",
             "manufacturer": "KAM"
         },

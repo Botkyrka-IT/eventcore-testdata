@@ -1,0 +1,219 @@
+{
+    _id: 'urn:bkid:water:meterInstallationPlace:4711',
+    address: 'Gatuvägen 3119',
+    location: {
+        type: 'Point',
+        coordinates: [
+            11.11,
+            22.22
+        ]
+    },
+    objectType: 'meterInstallationPlace',
+    postalCode: '14645',
+    waterMeters: [
+        {
+            refWaterMeter: 'urn:bkid:water:waterMeter:47111',
+            fromDate: '0001-01-01T00:00:00.0000000Z',
+            toDate: '2025-02-12T08:47:54.0000000Z',
+            consumptionType: 'VolumeCold',
+            manufacturer: 'KAM',
+            meterType: 'flowIQ 31xx',
+            serialNumber: '68533741',
+            typeNumber: '03146C0H879',
+            readings: [
+                {
+                    obisCode: '8.1.1.1.0.255',
+                    readTime: '2025-02-01T23:59:54Z',
+                    value: 1813128,
+                    unit: 'm3',
+                    scale: -3,
+                    batchId: '435936',
+                    readingType: 'Volume1',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47111'
+                },
+                {
+                    obisCode: '8.1.128.4.0.255',
+                    readTime: '2025-02-01T23:59:54Z',
+                    value: 14,
+                    unit: 'C',
+                    scale: 0,
+                    batchId: '435936',
+                    readingType: 'TempAmbientMinLogged',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47111'
+                },
+                {
+                    obisCode: '8.1.1.1.0.255',
+                    readTime: '2025-02-01T23:59:54Z',
+                    value: 1813128,
+                    unit: 'm3',
+                    scale: -3,
+                    batchId: '435936',
+                    readingType: 'Volume1Logged',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47111'
+                },
+                {
+                    obisCode: '8.1.1.1.0.255',
+                    readTime: '2025-02-02T23:59:54Z',
+                    value: 1813228,
+                    unit: 'm3',
+                    scale: -3,
+                    batchId: '435936',
+                    readingType: 'Volume1',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47111'
+                },
+                {
+                    obisCode: '8.1.128.4.0.255',
+                    readTime: '2025-02-02T23:59:54Z',
+                    value: 1,
+                    unit: 'C',
+                    scale: 0,
+                    batchId: '435936',
+                    readingType: 'TempAmbientMinLogged',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47111'
+                },
+                {
+                       obisCode: '8.1.1.1.0.255',
+                    readTime: '2025-02-02T23:59:54Z',
+                    value: 1813228,
+                    unit: 'm3',
+                    scale: -3,
+                    batchId: '435936',
+                    readingType: 'Volume1Logged',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47111'
+                },                
+                {
+                    obisCode: '8.1.1.1.0.255',
+                    readTime: '2025-02-03T23:59:54Z',
+                    value: 1813328,
+                    unit: 'm3',
+                    scale: -3,
+                    batchId: '435936',
+                    readingType: 'Volume1',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47111'
+                },
+                {
+                    obisCode: '8.1.128.4.0.255',
+                    readTime: '2025-02-03T23:59:54Z',
+                    value: 13,
+                    unit: 'C',
+                    scale: 0,
+                    batchId: '435936',
+                    readingType: 'TempAmbientMinLogged',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47111'
+                },
+                {
+                    obisCode: '8.1.1.1.0.255',
+                    readTime: '2025-02-03T23:59:54Z',
+                    value: 1813328,
+                    unit: 'm3',
+                    scale: -3,
+                    batchId: '435936',
+                    readingType: 'Volume1Logged',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47111'
+                }
+            ]
+        },
+        {
+            refWaterMeter: 'urn:bkid:water:waterMeter:47112',
+            fromDate: '2025-02-12T08:47:54.0000000Z',
+            toDate: '9999-12-31T23:59:59.9999999Z',
+            consumptionType: 'VolumeCold',
+            manufacturer: 'KAM',
+            meterType: 'flowIQ 31xx',
+            serialNumber: '20821886',
+            typeNumber: '03140C2U879',
+            readings: [
+                {
+                    obisCode: '8.1.1.1.0.255',
+                    readTime: '2025-02-13T23:59:54Z',
+                    value: 1813128,
+                    unit: 'm3',
+                    scale: -3,
+                    batchId: '435936',
+                    readingType: 'Volume1',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47112'
+                },
+                {
+                    obisCode: '8.1.128.4.0.255',
+                    readTime: '2025-02-13T23:59:54Z',
+                    value: 14,
+                    unit: 'C',
+                    scale: 0,
+                    batchId: '435936',
+                    readingType: 'TempAmbientMinLogged',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47112'
+                },
+                {
+                    obisCode: '8.1.1.1.0.255',
+                    readTime: '2025-02-13T23:59:54Z',
+                    value: 1813128,
+                    unit: 'm3',
+                    scale: -3,
+                    batchId: '435936',
+                    readingType: 'Volume1Logged',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47112'
+                },
+                {
+                    obisCode: '8.1.1.1.0.255',
+                    readTime: '2025-02-14T23:59:54Z',
+                    value: 1813228,
+                    unit: 'm3',
+                    scale: -3,
+                    batchId: '435936',
+                    readingType: 'Volume1',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47112'
+                },
+                {
+                    obisCode: '8.1.128.4.0.255',
+                    readTime: '2025-02-14T23:59:54Z',
+                    value: 1,
+                    unit: 'C',
+                    scale: 0,
+                    batchId: '435936',
+                    readingType: 'TempAmbientMinLogged',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47112'
+                },
+                {
+                       obisCode: '8.1.1.1.0.255',
+                    readTime: '2025-02-14T23:59:54Z',
+                    value: 1813228,
+                    unit: 'm3',
+                    scale: -3,
+                    batchId: '435936',
+                    readingType: 'Volume1Logged',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47112'
+                },                
+                {
+                    obisCode: '8.1.1.1.0.255',
+                    readTime: '2025-02-15T23:59:54Z',
+                    value: 1813328,
+                    unit: 'm3',
+                    scale: -3,
+                    batchId: '435936',
+                    readingType: 'Volume1',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47112'
+                },
+                {
+                    obisCode: '8.1.128.4.0.255',
+                    readTime: '2025-02-15T23:59:54Z',
+                    value: 13,
+                    unit: 'C',
+                    scale: 0,
+                    batchId: '435936',
+                    readingType: 'TempAmbientMinLogged',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47112'
+                },
+                {
+                    obisCode: '8.1.1.1.0.255',
+                    readTime: '2025-02-15T23:59:54Z',
+                    value: 1813328,
+                    unit: 'm3',
+                    scale: -3,
+                    batchId: '435936',
+                    readingType: 'Volume1Logged',
+                    refGeneratedBy: 'urn:bkid:water:waterMeter:47112'
+                }
+            ]
+        }
+    ]
+}
