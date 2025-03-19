@@ -1,0 +1,223 @@
+{
+  "invoiceNo": "36051724",
+  "durationUnit": "Min",
+  "dataQuantityUnit": "MB",
+  "currency": "SEK",
+  "billingId": "1685026",
+  "invoiceDate": "2025-01-09T23:00:00Z",
+  "lines": [
+      {
+          "subsId": 30358519,
+          "subscriberNo": "461111111",
+          "name": "Person Namn",
+          "consumptionType": "Fasta avgifter telefoni",
+          "service": "Tele2 Växel Allround mobil",
+          "quantity": 1,
+          "duration": 0,
+          "dataQuantity": 0,
+          "price": 16.9,
+          "billingId": "1685026",
+          "from": "2024-11-18",
+          "to": "2024-11-30",
+          "objectCodes": [
+              {
+                  "description": "samaccountname01",
+                  "dimension": "Customer site alias"
+              },
+              {
+                  "code": "82201040",
+                  "description": "82201040",
+                  "dimension": "Fakturareferens"
+              }
+          ]
+      },
+      {
+          "subsId": 30358519,
+          "subscriberNo": "461111111",
+          "name": "Person Namn",
+          "consumptionType": "Fasta avgifter telefoni",
+          "service": "Tele2 Växel Allround mobil",
+          "quantity": 1,
+          "duration": 0,
+          "dataQuantity": 0,
+          "price": 39,
+          "billingId": "1685026",
+          "from": "2024-12-01",
+          "to": "2024-12-31",
+          "objectCodes": [
+              {
+                  "description": "samaccountname01",
+                  "dimension": "Customer site alias"
+              },
+              {
+                  "code": "82201040",
+                  "description": "82201040",
+                  "dimension": "Fakturareferens"
+              }
+          ]
+      },
+      {
+          "subsId": 30358519,
+          "subscriberNo": "461111111",
+          "name": "Person Namn",
+          "consumptionType": "Fasta avgifter telefoni",
+          "service": "Tele2 Företag Fastpris",
+          "quantity": 1,
+          "duration": 0,
+          "dataQuantity": 0,
+          "price": 0,
+          "billingId": "1685026",
+          "from": "2024-11-18",
+          "to": "2024-11-30",
+          "objectCodes": [
+              {
+                  "description": "samaccountname01",
+                  "dimension": "Customer site alias"
+              },
+              {
+                  "code": "82201040",
+                  "description": "82201040",
+                  "dimension": "Fakturareferens"
+              }
+          ]
+      },
+      {
+          "subsId": 30358519,
+          "subscriberNo": "461111111",
+          "name": "Person Namn",
+          "consumptionType": "Fasta avgifter telefoni",
+          "service": "Tele2 Företag Fastpris",
+          "quantity": 1,
+          "duration": 0,
+          "dataQuantity": 0,
+          "price": 0,
+          "billingId": "1685026",
+          "from": "2024-12-01",
+          "to": "2024-12-31",
+          "objectCodes": [
+              {
+                  "description": "samaccountname01",
+                  "dimension": "Customer site alias"
+              },
+              {
+                  "code": "82201040",
+                  "description": "82201040",
+                  "dimension": "Fakturareferens"
+              }
+          ]
+      },
+      {
+          "subsId": 30358519,
+          "subscriberNo": "461111111",
+          "name": "Person Namn",
+          "consumptionType": "Datatrafik inom Sverige",
+          "service": "Fri Data",
+          "quantity": 0,
+          "duration": 0,
+          "dataQuantity": 907.4,
+          "price": 0,
+          "billingId": "1685026",
+          "from": "2024-12-01",
+          "to": "2024-12-31",
+          "objectCodes": [
+              {
+                  "description": "samaccountname01",
+                  "dimension": "Customer site alias"
+              },
+              {
+                  "code": "82201040",
+                  "description": "82201040",
+                  "dimension": "Fakturareferens"
+              }
+          ]
+      },
+      {
+          "subsId": 30358519,
+          "subscriberNo": "461111111",
+          "name": "Person Namn",
+          "consumptionType": "SMS/MMS inom Sverige",
+          "service": "Fria SMS",
+          "quantity": 20,
+          "duration": 0,
+          "dataQuantity": 0,
+          "price": 0,
+          "billingId": "1685026",
+          "from": "2024-12-01",
+          "to": "2024-12-31",
+          "objectCodes": [
+              {
+                  "description": "samaccountname01",
+                  "dimension": "Customer site alias"
+              },
+              {
+                  "code": "82201040",
+                  "description": "82201040",
+                  "dimension": "Fakturareferens"
+              }
+          ]
+      },
+      {
+          "subsId": 30358519,
+          "subscriberNo": "461111111",
+          "name": "Person Namn",
+          "consumptionType": "Mobilsamtal",
+          "service": "Fria samtal från växel",
+          "quantity": 10,
+          "duration": 149.5,
+          "dataQuantity": 0,
+          "price": 0,
+          "billingId": "1685026",
+          "from": "2024-12-01",
+          "to": "2024-12-31",
+          "objectCodes": [
+              {
+                  "description": "samaccountname01",
+                  "dimension": "Customer site alias"
+              },
+              {
+                  "code": "82201040",
+                  "description": "82201040",
+                  "dimension": "Fakturareferens"
+              }
+          ]
+      },
+      {
+          "subsId": 30358519,
+          "subscriberNo": "461111111",
+          "name": "Person Namn",
+          "consumptionType": "Samtal inom grupp",
+          "service": "Interna samtal",
+          "quantity": 6,
+          "duration": 19.17,
+          "dataQuantity": 0,
+          "price": 0,
+          "billingId": "1685026",
+          "from": "2024-12-01",
+          "to": "2024-12-31",
+          "objectCodes": [
+              {
+                  "description": "samaccountname01",
+                  "dimension": "Customer site alias"
+              },
+              {
+                  "code": "82201040",
+                  "description": "82201040",
+                  "dimension": "Fakturareferens"
+              }
+          ]
+      },
+      {
+          "subsId": 0,
+          "subscriberNo": "",
+          "service": "Öresutjämning",
+          "quantity": 1,
+          "duration": 0,
+          "dataQuantity": 0,
+          "price": 0.12,
+          "billingId": "1685026",
+          "from": "2024-12-01",
+          "to": "2024-12-31",
+          "objectCodes": []
+      }
+  ]
+}
