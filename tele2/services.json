@@ -41,7 +41,38 @@
             "id": "samaccountname01",
             "eMail": "person.namn@email.com"
         }
+    },
+    {
+        "ICCID": "22222222222222222222",
+        "MSISDN": "461111111",
+        "fixedPhoneNumber" : "461212121212",
+        "invoiceReference": "Abonnemangsfaktura",
+        "PBXExtensionNumber" : "8000",
+        "costCenter": "82201040",
+        "IMEI": "23232323232",
+        "itemName": "Mobil abonnemang inkl Växel",
+        "A100010": "5 GB",
+        "validFromDate": "2024-11-15T13:24:59.117",
+        "model": "Samsung Galaxy A33 5G",
+        "id": 30358520,
+        "blockedForPremiumRateSMS": "Nej",
+        "status": "In service",
+        "supplierItemNumber": "2002987",
+        "serviceRecipient": {
+            "name": "Person Namn",
+            "id": "samaccountname01",
+            "eMail": "person.namn@email.com",
+            "isFunction" : false
+        },
+        "extraCard": [
+            {
+                "ICCID": "33333333333333333333",
+                "MSISDN": "4678787878",
+                "alias": "Extra datasim"
+            }
+        ]
     }
+    
 
   
 ]
