@@ -1,0 +1,40 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users(id,displayName,givenName,surname,userPrincipalName,jobTitle,mail,businessPhones,postalCode,companyName,createdDateTime,creationType,department,employeeId,employeeType,lastPasswordChangeDateTime,mobilePhone,onPremisesDistinguishedName,onPremisesExtensionAttributes,onPremisesSamAccountName,userType)",
+    "value": [
+        {
+            "id": "ba938319-2eb5-4dd6-a852-063e8ac00ac1",
+            "displayName": "David Användar4",
+            "givenName": "David",
+            "surname": "Användar4",
+            "userPrincipalName": "david.anvandare4@botkyrka.se",
+            "jobTitle": "Assistent",
+            "mail": "david.anvandare4@botkyrka.se",
+            "businessPhones": [],
+            "postalCode": null,
+            "companyName": "Botkyrka kommun",
+            "createdDateTime": "2023-11-20T10:58:33Z",
+            "department": "Utbildningsförvaltning",
+            "employeeType": "Personal",
+            "lastPasswordChangeDateTime": "1601-01-01T00:00:00Z",
+            "onPremisesSamAccountName": "anvandare4",
+            "userType": "Member",
+            "onPremisesExtensionAttributes": {
+                "extensionAttribute1": null,
+                "extensionAttribute2": null,
+                "extensionAttribute3": null,
+                "extensionAttribute4": "Staff",
+                "extensionAttribute5": null,
+                "extensionAttribute6": null,
+                "extensionAttribute7": null,
+                "extensionAttribute8": null,
+                "extensionAttribute9": null,
+                "extensionAttribute10": null,
+                "extensionAttribute11": null,
+                "extensionAttribute12": "Azure-Account-Connected",
+                "extensionAttribute13": "FIM Created 2023-11-20",
+                "extensionAttribute14": null,
+                "extensionAttribute15": "62327000"
+            }
+        }
+    ]
+}
