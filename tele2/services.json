@@ -27,7 +27,7 @@
         "ICCID": "22222222222222222222",
         "MSISDN": "461111111",
         "invoiceReference": "Abonnemangsfaktura",
-        "costCenter": "82201040",
+        "costCenter": "14000000",
         "IMEI": "111111111111111",
         "itemName": "Mobil abonnemang inkl Växel",
         "A100010": "5 GB",
@@ -35,10 +35,10 @@
         "model": "Samsung Galaxy A33 5G",
         "id": 30358519,
         "blockedForPremiumRateSMS": "Nej",
-        "status": "In service",
+        "status": "Changed",
         "serviceRecipient": {
             "name": "Person Namn",
-            "id": "samaccountname01",
+            "id": "Amani Test -",
             "eMail": "person.namn@email.com"
         }
     },
